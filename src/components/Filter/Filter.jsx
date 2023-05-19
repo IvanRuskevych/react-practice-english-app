@@ -1,5 +1,7 @@
-import React from 'react';
+import React, { Component } from 'react';
 
-export const Filter = () => {
-  return <div>Filter</div>;
-};
+export default class Filter extends Component {
+  render() {
+    return <div></div>;
+  }
+}

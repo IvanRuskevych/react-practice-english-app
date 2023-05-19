@@ -1,14 +1,18 @@
-import React from 'react';
+import Checkbox from '@mui/material/Checkbox';
 
 export const WordList = ({ words }) => {
   return (
     <div>
       <ul>
-        {words.map(word => {
+        {words.map((word, index) => {
           return (
             <li key={word.id}>
-              <span>{word.ukWord}</span>
-              <span>{word.enWord}</span>
+              <Checkbox />
+              <p className="numberWord">{index + 1}</p>
+              <p className="ukrWord">{word.ukrWord}</p>
+              <p className="enWord">{word.enWord}</p>
+              <button>delete</button>
+              <button>edit</button>
             </li>
           );
         })}
