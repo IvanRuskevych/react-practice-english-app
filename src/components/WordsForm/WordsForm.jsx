@@ -3,6 +3,7 @@ import TextField from '@mui/material/TextField';
 import Button from '@mui/material/Button';
 import { nanoid } from 'nanoid';
 import css from './WordsForm.module.css';
+import messageInfo from 'components/Notify/Notify';
 
 export default class WordsForm extends Component {
   state = {
@@ -12,13 +13,17 @@ export default class WordsForm extends Component {
 
   handleChange = e => {
     const { name, value } = e.currentTarget;
-    console.log(value);
-    console.log(name);
+    // console.log(value);
+    // console.log(name);
     this.setState({ [name]: value });
   };
 
   handleSubmitForm = e => {
     e.preventDefault();
+
+    if (this.state.enWord === '' || this.state.ukrWord === '') {
+      return messageInfo('Потрібно ввести слово');
+    }
 
     const word = {
       id: nanoid(5),
@@ -40,6 +45,7 @@ export default class WordsForm extends Component {
           name="ukrWord"
           label="Ukrainian"
           variant="outlined"
+          autoComplete="off"
           value={ukrWord}
           onChange={this.handleChange}
         />
@@ -48,6 +54,7 @@ export default class WordsForm extends Component {
           name="enWord"
           label="English"
           variant="outlined"
+          autoComplete="off"
           value={enWord}
           onChange={this.handleChange}
         />

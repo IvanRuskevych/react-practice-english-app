@@ -12,6 +12,7 @@ export default function Filter({ handleChange, value }) {
       value={value}
       onChange={handleChange}
       className={css.Filter}
+      style={{ marginTop: '50px' }}
     />
   );
 }
