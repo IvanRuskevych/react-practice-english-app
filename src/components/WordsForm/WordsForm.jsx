@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import TextField from '@mui/material/TextField';
 import Button from '@mui/material/Button';
 import { nanoid } from 'nanoid';
+import css from './WordsForm.module.css';
 
 export default class WordsForm extends Component {
   state = {
@@ -33,7 +34,7 @@ export default class WordsForm extends Component {
   render() {
     const { ukrWord, enWord } = this.state;
     return (
-      <form onSubmit={this.handleSubmitForm}>
+      <form onSubmit={this.handleSubmitForm} className={css.WordsForm}>
         <TextField
           id="ukrWord"
           name="ukrWord"

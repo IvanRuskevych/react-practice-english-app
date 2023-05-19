@@ -1,0 +1,6 @@
+.Filter {
+  display: grid;
+  gap: 30px;
+  margin-top: 30px;
+  width: 30%;
+}

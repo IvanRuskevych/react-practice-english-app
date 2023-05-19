@@ -1,6 +1,6 @@
 import Checkbox from '@mui/material/Checkbox';
 
-export const WordList = ({ words }) => {
+const WordList = ({ words, deleteWord }) => {
   return (
     <div>
       <ul>
@@ -11,7 +11,7 @@ export const WordList = ({ words }) => {
               <p className="numberWord">{index + 1}</p>
               <p className="ukrWord">{word.ukrWord}</p>
               <p className="enWord">{word.enWord}</p>
-              <button>delete</button>
+              <button onClick={() => deleteWord(word.id)}>delete</button>
               <button>edit</button>
             </li>
           );
@@ -20,3 +20,5 @@ export const WordList = ({ words }) => {
     </div>
   );
 };
+
+export default WordList;
