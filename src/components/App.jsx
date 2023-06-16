@@ -3,18 +3,26 @@ import Navigation from './Navigation/Navigation';
 import { WordsForm } from './WordsForm/WordsForm';
 import WordList from './WordList/WordList';
 import Filter from './Filter/Filter';
+import { useLocalStorage } from 'hooks/useLocalStorage';
 // import messageInfo from './Notify/Notify';
 
 // import wordsDictionary from '../data/dictionary.json';
 
 export const App = () => {
-  const [words, setWords] = useState([]);
+  // === before useLocalStorage =======
+  // const [words, setWords] = useState([]);
   const [filter, setFilter] = useState('');
+
+  // === after with useLocalStorage =======
+  const [words, setWords] = useLocalStorage('words', []);
+  // це приклад для filter як hook useLocalStorage перевикористовується
+  // ПИСАТИ HOOKS ЯКІ НЕ ПЕРЕВИКОРИСТОВУЮТЬСЯ НЕДОЦІЛЬНО - ЦЕ ТРАТА ЧАСУ !!!
+  // const [filter, setFilter] = useLocalStorage('filter', '');
 
   const addWord = word => setWords(prevState => [...prevState, word]);
 
   const deleteWord = wordId => {
-    setWords(prevState => prevState.words.filter(word => word.id !== wordId));
+    setWords(prevState => prevState.filter(word => word.id !== wordId));
   };
 
   const filterWord = e => {
