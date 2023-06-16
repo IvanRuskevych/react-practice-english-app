@@ -1,0 +1,5996 @@
+[
+  {
+    "id": 1,
+    "enWord": "the",
+    "ukrWord": "артикль",
+    "isChecked": false
+  },
+  {
+    "id": 2,
+    "enWord": "be",
+    "ukrWord": "бути",
+    "isChecked": false
+  },
+  {
+    "id": 3,
+    "enWord": "and",
+    "ukrWord": "і",
+    "isChecked": false
+  },
+  {
+    "id": 4,
+    "enWord": "of",
+    "ukrWord": "з/від/об",
+    "isChecked": false
+  },
+  {
+    "id": 5,
+    "enWord": "a",
+    "ukrWord": "артикль",
+    "isChecked": false
+  },
+  {
+    "id": 6,
+    "enWord": "in",
+    "ukrWord": "в",
+    "isChecked": false
+  },
+  {
+    "id": 7,
+    "enWord": "to",
+    "ukrWord": "частка перед дієсловом",
+    "isChecked": false
+  },
+  {
+    "id": 8,
+    "enWord": "have",
+    "ukrWord": "мати",
+    "isChecked": false
+  },
+  {
+    "id": 9,
+    "enWord": "to",
+    "ukrWord": "щоб",
+    "isChecked": false
+  },
+  {
+    "id": 10,
+    "enWord": "it",
+    "ukrWord": "це",
+    "isChecked": false
+  },
+  {
+    "id": 11,
+    "enWord": "I",
+    "ukrWord": "я",
+    "isChecked": false
+  },
+  {
+    "id": 12,
+    "enWord": "that",
+    "ukrWord": "що",
+    "isChecked": false
+  },
+  {
+    "id": 13,
+    "enWord": "for",
+    "ukrWord": "для",
+    "isChecked": false
+  },
+  {
+    "id": 14,
+    "enWord": "you",
+    "ukrWord": "ти ви",
+    "isChecked": false
+  },
+  {
+    "id": 15,
+    "enWord": "he",
+    "ukrWord": "він",
+    "isChecked": false
+  },
+  {
+    "id": 16,
+    "enWord": "with",
+    "ukrWord": "з",
+    "isChecked": false
+  },
+  {
+    "id": 17,
+    "enWord": "on",
+    "ukrWord": "на",
+    "isChecked": false
+  },
+  {
+    "id": 18,
+    "enWord": "do",
+    "ukrWord": "робити",
+    "isChecked": false
+  },
+  {
+    "id": 19,
+    "enWord": "say",
+    "ukrWord": "сказати",
+    "isChecked": false
+  },
+  {
+    "id": 20,
+    "enWord": "this",
+    "ukrWord": "цей",
+    "isChecked": false
+  },
+  {
+    "id": 21,
+    "enWord": "they",
+    "ukrWord": "вони",
+    "isChecked": false
+  },
+  {
+    "id": 22,
+    "enWord": "at",
+    "ukrWord": "на/в",
+    "isChecked": false
+  },
+  {
+    "id": 23,
+    "enWord": "but",
+    "ukrWord": "але",
+    "isChecked": false
+  },
+  {
+    "id": 24,
+    "enWord": "we",
+    "ukrWord": "ми",
+    "isChecked": false
+  },
+  {
+    "id": 25,
+    "enWord": "his",
+    "ukrWord": "його",
+    "isChecked": false
+  },
+  {
+    "id": 26,
+    "enWord": "from",
+    "ukrWord": "із/з",
+    "isChecked": false
+  },
+  {
+    "id": 27,
+    "enWord": "that",
+    "ukrWord": "той",
+    "isChecked": false
+  },
+  {
+    "id": 28,
+    "enWord": "not",
+    "ukrWord": "не",
+    "isChecked": false
+  },
+  {
+    "id": 29,
+    "enWord": "n't",
+    "ukrWord": "ні (скор.)",
+    "isChecked": false
+  },
+  {
+    "id": 30,
+    "enWord": "by",
+    "ukrWord": "від",
+    "isChecked": false
+  },
+  {
+    "id": 31,
+    "enWord": "she",
+    "ukrWord": "вона",
+    "isChecked": false
+  },
+  {
+    "id": 32,
+    "enWord": "or",
+    "ukrWord": "або",
+    "isChecked": false
+  },
+  {
+    "id": 33,
+    "enWord": "as",
+    "ukrWord": "в якості",
+    "isChecked": false
+  },
+  {
+    "id": 34,
+    "enWord": "what",
+    "ukrWord": "що",
+    "isChecked": false
+  },
+  {
+    "id": 35,
+    "enWord": "go",
+    "ukrWord": "йти",
+    "isChecked": false
+  },
+  {
+    "id": 36,
+    "enWord": "their",
+    "ukrWord": "їх",
+    "isChecked": false
+  },
+  {
+    "id": 37,
+    "enWord": "can",
+    "ukrWord": "може",
+    "isChecked": false
+  },
+  {
+    "id": 38,
+    "enWord": "who",
+    "ukrWord": "хто",
+    "isChecked": false
+  },
+  {
+    "id": 39,
+    "enWord": "get",
+    "ukrWord": "отримувати",
+    "isChecked": false
+  },
+  {
+    "id": 40,
+    "enWord": "if",
+    "ukrWord": "якщо",
+    "isChecked": false
+  },
+  {
+    "id": 41,
+    "enWord": "would",
+    "ukrWord": "б",
+    "isChecked": false
+  },
+  {
+    "id": 42,
+    "enWord": "her",
+    "ukrWord": "її",
+    "isChecked": false
+  },
+  {
+    "id": 43,
+    "enWord": "all",
+    "ukrWord": "всі",
+    "isChecked": false
+  },
+  {
+    "id": 44,
+    "enWord": "my",
+    "ukrWord": "моє",
+    "isChecked": false
+  },
+  {
+    "id": 45,
+    "enWord": "make",
+    "ukrWord": "робити",
+    "isChecked": false
+  },
+  {
+    "id": 46,
+    "enWord": "about",
+    "ukrWord": "про",
+    "isChecked": false
+  },
+  {
+    "id": 47,
+    "enWord": "know",
+    "ukrWord": "знати",
+    "isChecked": false
+  },
+  {
+    "id": 48,
+    "enWord": "will",
+    "ukrWord": "буде",
+    "isChecked": false
+  },
+  {
+    "id": 49,
+    "enWord": "as",
+    "ukrWord": "як",
+    "isChecked": false
+  },
+  {
+    "id": 50,
+    "enWord": "up",
+    "ukrWord": "вгору",
+    "isChecked": false
+  },
+  {
+    "id": 51,
+    "enWord": "one",
+    "ukrWord": "один",
+    "isChecked": false
+  },
+  {
+    "id": 52,
+    "enWord": "time",
+    "ukrWord": "час",
+    "isChecked": false
+  },
+  {
+    "id": 53,
+    "enWord": "there",
+    "ukrWord": "там",
+    "isChecked": false
+  },
+  {
+    "id": 54,
+    "enWord": "year",
+    "ukrWord": "рік",
+    "isChecked": false
+  },
+  {
+    "id": 55,
+    "enWord": "so",
+    "ukrWord": "тому",
+    "isChecked": false
+  },
+  {
+    "id": 56,
+    "enWord": "think",
+    "ukrWord": "думати",
+    "isChecked": false
+  },
+  {
+    "id": 57,
+    "enWord": "when",
+    "ukrWord": "коли",
+    "isChecked": false
+  },
+  {
+    "id": 58,
+    "enWord": "which",
+    "ukrWord": "котрий",
+    "isChecked": false
+  },
+  {
+    "id": 59,
+    "enWord": "them",
+    "ukrWord": "їм",
+    "isChecked": false
+  },
+  {
+    "id": 60,
+    "enWord": "some",
+    "ukrWord": "деякі",
+    "isChecked": false
+  },
+  {
+    "id": 61,
+    "enWord": "me",
+    "ukrWord": "мій",
+    "isChecked": false
+  },
+  {
+    "id": 62,
+    "enWord": "people",
+    "ukrWord": "люди",
+    "isChecked": false
+  },
+  {
+    "id": 63,
+    "enWord": "take",
+    "ukrWord": "брати",
+    "isChecked": false
+  },
+  {
+    "id": 64,
+    "enWord": "out",
+    "ukrWord": "з/поза",
+    "isChecked": false
+  },
+  {
+    "id": 65,
+    "enWord": "into",
+    "ukrWord": "всередині",
+    "isChecked": false
+  },
+  {
+    "id": 66,
+    "enWord": "just",
+    "ukrWord": "просто",
+    "isChecked": false
+  },
+  {
+    "id": 67,
+    "enWord": "see",
+    "ukrWord": "бачити",
+    "isChecked": false
+  },
+  {
+    "id": 68,
+    "enWord": "him",
+    "ukrWord": "його",
+    "isChecked": false
+  },
+  {
+    "id": 69,
+    "enWord": "your",
+    "ukrWord": "твій",
+    "isChecked": false
+  },
+  {
+    "id": 70,
+    "enWord": "come",
+    "ukrWord": "приходити",
+    "isChecked": false
+  },
+  {
+    "id": 71,
+    "enWord": "could",
+    "ukrWord": "міг",
+    "isChecked": false
+  },
+  {
+    "id": 72,
+    "enWord": "now",
+    "ukrWord": "зараз",
+    "isChecked": false
+  },
+  {
+    "id": 73,
+    "enWord": "than",
+    "ukrWord": "ніж",
+    "isChecked": false
+  },
+  {
+    "id": 74,
+    "enWord": "like",
+    "ukrWord": "як",
+    "isChecked": false
+  },
+  {
+    "id": 75,
+    "enWord": "other",
+    "ukrWord": "інший",
+    "isChecked": false
+  },
+  {
+    "id": 76,
+    "enWord": "how",
+    "ukrWord": "як",
+    "isChecked": false
+  },
+  {
+    "id": 77,
+    "enWord": "then",
+    "ukrWord": "тоді",
+    "isChecked": false
+  },
+  {
+    "id": 78,
+    "enWord": "its",
+    "ukrWord": "цього",
+    "isChecked": false
+  },
+  {
+    "id": 79,
+    "enWord": "our",
+    "ukrWord": "наше",
+    "isChecked": false
+  },
+  {
+    "id": 80,
+    "enWord": "two",
+    "ukrWord": "два",
+    "isChecked": false
+  },
+  {
+    "id": 81,
+    "enWord": "more",
+    "ukrWord": "більше",
+    "isChecked": false
+  },
+  {
+    "id": 82,
+    "enWord": "these",
+    "ukrWord": "ці",
+    "isChecked": false
+  },
+  {
+    "id": 83,
+    "enWord": "want",
+    "ukrWord": "хотіти",
+    "isChecked": false
+  },
+  {
+    "id": 84,
+    "enWord": "way",
+    "ukrWord": "спосіб",
+    "isChecked": false
+  },
+  {
+    "id": 85,
+    "enWord": "look",
+    "ukrWord": "виглядає",
+    "isChecked": false
+  },
+  {
+    "id": 86,
+    "enWord": "first",
+    "ukrWord": "перший",
+    "isChecked": false
+  },
+  {
+    "id": 87,
+    "enWord": "also",
+    "ukrWord": "також",
+    "isChecked": false
+  },
+  {
+    "id": 88,
+    "enWord": "new",
+    "ukrWord": "новий",
+    "isChecked": false
+  },
+  {
+    "id": 89,
+    "enWord": "because",
+    "ukrWord": "тому що",
+    "isChecked": false
+  },
+  {
+    "id": 90,
+    "enWord": "day",
+    "ukrWord": "день",
+    "isChecked": false
+  },
+  {
+    "id": 91,
+    "enWord": "more",
+    "ukrWord": "більше",
+    "isChecked": false
+  },
+  {
+    "id": 92,
+    "enWord": "use",
+    "ukrWord": "використовувати",
+    "isChecked": false
+  },
+  {
+    "id": 93,
+    "enWord": "no",
+    "ukrWord": "немає",
+    "isChecked": false
+  },
+  {
+    "id": 94,
+    "enWord": "man",
+    "ukrWord": "людина/чоловік",
+    "isChecked": false
+  },
+  {
+    "id": 95,
+    "enWord": "find",
+    "ukrWord": "знаходити",
+    "isChecked": false
+  },
+  {
+    "id": 96,
+    "enWord": "here",
+    "ukrWord": "тут",
+    "isChecked": false
+  },
+  {
+    "id": 97,
+    "enWord": "thing",
+    "ukrWord": "річ",
+    "isChecked": false
+  },
+  {
+    "id": 98,
+    "enWord": "give",
+    "ukrWord": "давати",
+    "isChecked": false
+  },
+  {
+    "id": 99,
+    "enWord": "many",
+    "ukrWord": "багато",
+    "isChecked": false
+  },
+  {
+    "id": 100,
+    "enWord": "well",
+    "ukrWord": "добре",
+    "isChecked": false
+  },
+  {
+    "id": 101,
+    "enWord": "only",
+    "ukrWord": "тільки",
+    "isChecked": false
+  },
+  {
+    "id": 102,
+    "enWord": "those",
+    "ukrWord": "ті",
+    "isChecked": false
+  },
+  {
+    "id": 103,
+    "enWord": "tell",
+    "ukrWord": "розповідати",
+    "isChecked": false
+  },
+  {
+    "id": 104,
+    "enWord": "one",
+    "ukrWord": "частина",
+    "isChecked": false
+  },
+  {
+    "id": 105,
+    "enWord": "very",
+    "ukrWord": "дуже",
+    "isChecked": false
+  },
+  {
+    "id": 106,
+    "enWord": "her",
+    "ukrWord": "її",
+    "isChecked": false
+  },
+  {
+    "id": 107,
+    "enWord": "even",
+    "ukrWord": "навіть",
+    "isChecked": false
+  },
+  {
+    "id": 108,
+    "enWord": "back",
+    "ukrWord": "назад",
+    "isChecked": false
+  },
+  {
+    "id": 109,
+    "enWord": "any",
+    "ukrWord": "будь-який",
+    "isChecked": false
+  },
+  {
+    "id": 110,
+    "enWord": "good",
+    "ukrWord": "хороший",
+    "isChecked": false
+  },
+  {
+    "id": 111,
+    "enWord": "woman",
+    "ukrWord": "жінка",
+    "isChecked": false
+  },
+  {
+    "id": 112,
+    "enWord": "thought",
+    "ukrWord": "думка",
+    "isChecked": false
+  },
+  {
+    "id": 113,
+    "enWord": "us",
+    "ukrWord": "нам/нас",
+    "isChecked": false
+  },
+  {
+    "id": 114,
+    "enWord": "life",
+    "ukrWord": "життя",
+    "isChecked": false
+  },
+  {
+    "id": 115,
+    "enWord": "child",
+    "ukrWord": "дитина",
+    "isChecked": false
+  },
+  {
+    "id": 116,
+    "enWord": "there",
+    "ukrWord": "туди",
+    "isChecked": false
+  },
+  {
+    "id": 117,
+    "enWord": "work",
+    "ukrWord": "працювати",
+    "isChecked": false
+  },
+  {
+    "id": 118,
+    "enWord": "down",
+    "ukrWord": "вниз",
+    "isChecked": false
+  },
+  {
+    "id": 119,
+    "enWord": "many",
+    "ukrWord": "багато",
+    "isChecked": false
+  },
+  {
+    "id": 120,
+    "enWord": "after",
+    "ukrWord": "після",
+    "isChecked": false
+  },
+  {
+    "id": 121,
+    "enWord": "should",
+    "ukrWord": "повинен",
+    "isChecked": false
+  },
+  {
+    "id": 122,
+    "enWord": "call",
+    "ukrWord": "кликати",
+    "isChecked": false
+  },
+  {
+    "id": 123,
+    "enWord": "world",
+    "ukrWord": "мир",
+    "isChecked": false
+  },
+  {
+    "id": 124,
+    "enWord": "over",
+    "ukrWord": "понад",
+    "isChecked": false
+  },
+  {
+    "id": 125,
+    "enWord": "school",
+    "ukrWord": "школа",
+    "isChecked": false
+  },
+  {
+    "id": 126,
+    "enWord": "still",
+    "ukrWord": "досі",
+    "isChecked": false
+  },
+  {
+    "id": 127,
+    "enWord": "try",
+    "ukrWord": "намагатися",
+    "isChecked": false
+  },
+  {
+    "id": 128,
+    "enWord": "in",
+    "ukrWord": "в",
+    "isChecked": false
+  },
+  {
+    "id": 129,
+    "enWord": "as",
+    "ukrWord": "як",
+    "isChecked": false
+  },
+  {
+    "id": 130,
+    "enWord": "last",
+    "ukrWord": "останній",
+    "isChecked": false
+  },
+  {
+    "id": 131,
+    "enWord": "ask",
+    "ukrWord": "питати",
+    "isChecked": false
+  },
+  {
+    "id": 132,
+    "enWord": "need",
+    "ukrWord": "потребувати",
+    "isChecked": false
+  },
+  {
+    "id": 133,
+    "enWord": "too",
+    "ukrWord": "теж",
+    "isChecked": false
+  },
+  {
+    "id": 134,
+    "enWord": "feel",
+    "ukrWord": "відчувати",
+    "isChecked": false
+  },
+  {
+    "id": 135,
+    "enWord": "there",
+    "ukrWord": "це",
+    "isChecked": false
+  },
+  {
+    "id": 136,
+    "enWord": "when",
+    "ukrWord": "коли",
+    "isChecked": false
+  },
+  {
+    "id": 137,
+    "enWord": "state",
+    "ukrWord": "стан",
+    "isChecked": false
+  },
+  {
+    "id": 138,
+    "enWord": "never",
+    "ukrWord": "ніколи",
+    "isChecked": false
+  },
+  {
+    "id": 139,
+    "enWord": "become",
+    "ukrWord": "ставати",
+    "isChecked": false
+  },
+  {
+    "id": 140,
+    "enWord": "between",
+    "ukrWord": "між",
+    "isChecked": false
+  },
+  {
+    "id": 141,
+    "enWord": "high",
+    "ukrWord": "високий",
+    "isChecked": false
+  },
+  {
+    "id": 142,
+    "enWord": "really",
+    "ukrWord": "дійсно",
+    "isChecked": false
+  },
+  {
+    "id": 143,
+    "enWord": "something",
+    "ukrWord": "що-небудь",
+    "isChecked": false
+  },
+  {
+    "id": 144,
+    "enWord": "most",
+    "ukrWord": "більшість",
+    "isChecked": false
+  },
+  {
+    "id": 145,
+    "enWord": "another",
+    "ukrWord": "інший",
+    "isChecked": false
+  },
+  {
+    "id": 146,
+    "enWord": "much",
+    "ukrWord": "багато",
+    "isChecked": false
+  },
+  {
+    "id": 147,
+    "enWord": "family",
+    "ukrWord": "родина",
+    "isChecked": false
+  },
+  {
+    "id": 148,
+    "enWord": "own",
+    "ukrWord": "особистий",
+    "isChecked": false
+  },
+  {
+    "id": 149,
+    "enWord": "out",
+    "ukrWord": "з/поза",
+    "isChecked": false
+  },
+  {
+    "id": 150,
+    "enWord": "leave",
+    "ukrWord": "залишати",
+    "isChecked": false
+  },
+  {
+    "id": 151,
+    "enWord": "put",
+    "ukrWord": "поклав",
+    "isChecked": false
+  },
+  {
+    "id": 152,
+    "enWord": "old",
+    "ukrWord": "старий",
+    "isChecked": false
+  },
+  {
+    "id": 153,
+    "enWord": "while",
+    "ukrWord": "поки що",
+    "isChecked": false
+  },
+  {
+    "id": 154,
+    "enWord": "mean",
+    "ukrWord": "значить",
+    "isChecked": false
+  },
+  {
+    "id": 155,
+    "enWord": "on",
+    "ukrWord": "від",
+    "isChecked": false
+  },
+  {
+    "id": 156,
+    "enWord": "keep",
+    "ukrWord": "зберігати",
+    "isChecked": false
+  },
+  {
+    "id": 157,
+    "enWord": "student",
+    "ukrWord": "студент",
+    "isChecked": false
+  },
+  {
+    "id": 158,
+    "enWord": "why",
+    "ukrWord": "чому",
+    "isChecked": false
+  },
+  {
+    "id": 159,
+    "enWord": "let",
+    "ukrWord": "дозволяти",
+    "isChecked": false
+  },
+  {
+    "id": 160,
+    "enWord": "great",
+    "ukrWord": "великий",
+    "isChecked": false
+  },
+  {
+    "id": 161,
+    "enWord": "same",
+    "ukrWord": "однаковий",
+    "isChecked": false
+  },
+  {
+    "id": 162,
+    "enWord": "big",
+    "ukrWord": "великий",
+    "isChecked": false
+  },
+  {
+    "id": 163,
+    "enWord": "group",
+    "ukrWord": "група",
+    "isChecked": false
+  },
+  {
+    "id": 164,
+    "enWord": "begin",
+    "ukrWord": "починати",
+    "isChecked": false
+  },
+  {
+    "id": 165,
+    "enWord": "seem",
+    "ukrWord": "здаватися",
+    "isChecked": false
+  },
+  {
+    "id": 166,
+    "enWord": "country",
+    "ukrWord": "країна",
+    "isChecked": false
+  },
+  {
+    "id": 167,
+    "enWord": "help",
+    "ukrWord": "допомагати",
+    "isChecked": false
+  },
+  {
+    "id": 168,
+    "enWord": "talk",
+    "ukrWord": "спілкуватися",
+    "isChecked": false
+  },
+  {
+    "id": 169,
+    "enWord": "where",
+    "ukrWord": "де",
+    "isChecked": false
+  },
+  {
+    "id": 170,
+    "enWord": "turn",
+    "ukrWord": "повертати",
+    "isChecked": false
+  },
+  {
+    "id": 171,
+    "enWord": "problem",
+    "ukrWord": "проблема",
+    "isChecked": false
+  },
+  {
+    "id": 172,
+    "enWord": "every",
+    "ukrWord": "кожен",
+    "isChecked": false
+  },
+  {
+    "id": 173,
+    "enWord": "start",
+    "ukrWord": "починати",
+    "isChecked": false
+  },
+  {
+    "id": 174,
+    "enWord": "hand",
+    "ukrWord": "рука",
+    "isChecked": false
+  },
+  {
+    "id": 175,
+    "enWord": "might",
+    "ukrWord": "може",
+    "isChecked": false
+  },
+  {
+    "id": 176,
+    "enWord": "American",
+    "ukrWord": "американський",
+    "isChecked": false
+  },
+  {
+    "id": 177,
+    "enWord": "show",
+    "ukrWord": "показувати",
+    "isChecked": false
+  },
+  {
+    "id": 178,
+    "enWord": "part",
+    "ukrWord": "частина",
+    "isChecked": false
+  },
+  {
+    "id": 179,
+    "enWord": "about",
+    "ukrWord": "про",
+    "isChecked": false
+  },
+  {
+    "id": 180,
+    "enWord": "against",
+    "ukrWord": "проти",
+    "isChecked": false
+  },
+  {
+    "id": 181,
+    "enWord": "place",
+    "ukrWord": "місце",
+    "isChecked": false
+  },
+  {
+    "id": 182,
+    "enWord": "over",
+    "ukrWord": "понад",
+    "isChecked": false
+  },
+  {
+    "id": 183,
+    "enWord": "such",
+    "ukrWord": "як",
+    "isChecked": false
+  },
+  {
+    "id": 184,
+    "enWord": "again",
+    "ukrWord": "знову",
+    "isChecked": false
+  },
+  {
+    "id": 185,
+    "enWord": "few",
+    "ukrWord": "кілька",
+    "isChecked": false
+  },
+  {
+    "id": 186,
+    "enWord": "case",
+    "ukrWord": "випадок",
+    "isChecked": false
+  },
+  {
+    "id": 187,
+    "enWord": "most",
+    "ukrWord": "більшість",
+    "isChecked": false
+  },
+  {
+    "id": 188,
+    "enWord": "week",
+    "ukrWord": "тиждень",
+    "isChecked": false
+  },
+  {
+    "id": 189,
+    "enWord": "company",
+    "ukrWord": "компанія",
+    "isChecked": false
+  },
+  {
+    "id": 190,
+    "enWord": "where",
+    "ukrWord": "де",
+    "isChecked": false
+  },
+  {
+    "id": 191,
+    "enWord": "system",
+    "ukrWord": "система",
+    "isChecked": false
+  },
+  {
+    "id": 192,
+    "enWord": "each",
+    "ukrWord": "кожен",
+    "isChecked": false
+  },
+  {
+    "id": 193,
+    "enWord": "right",
+    "ukrWord": "правильно",
+    "isChecked": false
+  },
+  {
+    "id": 194,
+    "enWord": "program",
+    "ukrWord": "програма",
+    "isChecked": false
+  },
+  {
+    "id": 195,
+    "enWord": "hear",
+    "ukrWord": "чути",
+    "isChecked": false
+  },
+  {
+    "id": 196,
+    "enWord": "so",
+    "ukrWord": "так",
+    "isChecked": false
+  },
+  {
+    "id": 197,
+    "enWord": "question",
+    "ukrWord": "питання",
+    "isChecked": false
+  },
+  {
+    "id": 198,
+    "enWord": "during",
+    "ukrWord": "протягом",
+    "isChecked": false
+  },
+  {
+    "id": 199,
+    "enWord": "work",
+    "ukrWord": "робота",
+    "isChecked": false
+  },
+  {
+    "id": 200,
+    "enWord": "play",
+    "ukrWord": "грати",
+    "isChecked": false
+  },
+  {
+    "id": 201,
+    "enWord": "government",
+    "ukrWord": "уряд",
+    "isChecked": false
+  },
+  {
+    "id": 202,
+    "enWord": "run",
+    "ukrWord": "бігти",
+    "isChecked": false
+  },
+  {
+    "id": 203,
+    "enWord": "small",
+    "ukrWord": "маленький",
+    "isChecked": false
+  },
+  {
+    "id": 204,
+    "enWord": "number",
+    "ukrWord": "кількість",
+    "isChecked": false
+  },
+  {
+    "id": 205,
+    "enWord": "off",
+    "ukrWord": "від/із",
+    "isChecked": false
+  },
+  {
+    "id": 206,
+    "enWord": "always",
+    "ukrWord": "завжди",
+    "isChecked": false
+  },
+  {
+    "id": 207,
+    "enWord": "move",
+    "ukrWord": "рухатися",
+    "isChecked": false
+  },
+  {
+    "id": 208,
+    "enWord": "like",
+    "ukrWord": "подобатися",
+    "isChecked": false
+  },
+  {
+    "id": 209,
+    "enWord": "night",
+    "ukrWord": "ніч",
+    "isChecked": false
+  },
+  {
+    "id": 210,
+    "enWord": "live",
+    "ukrWord": "жити",
+    "isChecked": false
+  },
+  {
+    "id": 211,
+    "enWord": "Mr",
+    "ukrWord": "містер",
+    "isChecked": false
+  },
+  {
+    "id": 212,
+    "enWord": "point",
+    "ukrWord": "точка, крапка",
+    "isChecked": false
+  },
+  {
+    "id": 213,
+    "enWord": "believe",
+    "ukrWord": "вірити",
+    "isChecked": false
+  },
+  {
+    "id": 214,
+    "enWord": "hold",
+    "ukrWord": "тримати",
+    "isChecked": false
+  },
+  {
+    "id": 215,
+    "enWord": "today",
+    "ukrWord": "сьогодні",
+    "isChecked": false
+  },
+  {
+    "id": 216,
+    "enWord": "bring",
+    "ukrWord": "нести",
+    "isChecked": false
+  },
+  {
+    "id": 217,
+    "enWord": "happen",
+    "ukrWord": "траплятися",
+    "isChecked": false
+  },
+  {
+    "id": 218,
+    "enWord": "next",
+    "ukrWord": "наступного",
+    "isChecked": false
+  },
+  {
+    "id": 219,
+    "enWord": "without",
+    "ukrWord": "без",
+    "isChecked": false
+  },
+  {
+    "id": 220,
+    "enWord": "before",
+    "ukrWord": "раніше",
+    "isChecked": false
+  },
+  {
+    "id": 221,
+    "enWord": "large",
+    "ukrWord": "величезний",
+    "isChecked": false
+  },
+  {
+    "id": 222,
+    "enWord": "all",
+    "ukrWord": "усе",
+    "isChecked": false
+  },
+  {
+    "id": 223,
+    "enWord": "million",
+    "ukrWord": "мільйон",
+    "isChecked": false
+  },
+  {
+    "id": 224,
+    "enWord": "must",
+    "ukrWord": "повинен",
+    "isChecked": false
+  },
+  {
+    "id": 225,
+    "enWord": "home",
+    "ukrWord": "хата",
+    "isChecked": false
+  },
+  {
+    "id": 226,
+    "enWord": "under",
+    "ukrWord": "під",
+    "isChecked": false
+  },
+  {
+    "id": 227,
+    "enWord": "water",
+    "ukrWord": "вода",
+    "isChecked": false
+  },
+  {
+    "id": 228,
+    "enWord": "room",
+    "ukrWord": "кімната",
+    "isChecked": false
+  },
+  {
+    "id": 229,
+    "enWord": "write",
+    "ukrWord": "писати",
+    "isChecked": false
+  },
+  {
+    "id": 230,
+    "enWord": "mother",
+    "ukrWord": "ненька",
+    "isChecked": false
+  },
+  {
+    "id": 231,
+    "enWord": "area",
+    "ukrWord": "місцевість",
+    "isChecked": false
+  },
+  {
+    "id": 232,
+    "enWord": "national",
+    "ukrWord": "національний",
+    "isChecked": false
+  },
+  {
+    "id": 233,
+    "enWord": "money",
+    "ukrWord": "гроші",
+    "isChecked": false
+  },
+  {
+    "id": 234,
+    "enWord": "story",
+    "ukrWord": "історія",
+    "isChecked": false
+  },
+  {
+    "id": 235,
+    "enWord": "young",
+    "ukrWord": "молодий",
+    "isChecked": false
+  },
+  {
+    "id": 236,
+    "enWord": "fact",
+    "ukrWord": "факт",
+    "isChecked": false
+  },
+  {
+    "id": 237,
+    "enWord": "month",
+    "ukrWord": "місяць",
+    "isChecked": false
+  },
+  {
+    "id": 238,
+    "enWord": "different",
+    "ukrWord": "різний",
+    "isChecked": false
+  },
+  {
+    "id": 239,
+    "enWord": "lot",
+    "ukrWord": "багато",
+    "isChecked": false
+  },
+  {
+    "id": 240,
+    "enWord": "right",
+    "ukrWord": "право",
+    "isChecked": false
+  },
+  {
+    "id": 241,
+    "enWord": "study",
+    "ukrWord": "вчити",
+    "isChecked": false
+  },
+  {
+    "id": 242,
+    "enWord": "book",
+    "ukrWord": "книга",
+    "isChecked": false
+  },
+  {
+    "id": 243,
+    "enWord": "eye",
+    "ukrWord": "очей",
+    "isChecked": false
+  },
+  {
+    "id": 244,
+    "enWord": "job",
+    "ukrWord": "робота",
+    "isChecked": false
+  },
+  {
+    "id": 245,
+    "enWord": "word",
+    "ukrWord": "слово",
+    "isChecked": false
+  },
+  {
+    "id": 246,
+    "enWord": "though",
+    "ukrWord": "хоча",
+    "isChecked": false
+  },
+  {
+    "id": 247,
+    "enWord": "business",
+    "ukrWord": "бізнес",
+    "isChecked": false
+  },
+  {
+    "id": 248,
+    "enWord": "issue",
+    "ukrWord": "проблема",
+    "isChecked": false
+  },
+  {
+    "id": 249,
+    "enWord": "side",
+    "ukrWord": "сторона",
+    "isChecked": false
+  },
+  {
+    "id": 250,
+    "enWord": "kind",
+    "ukrWord": "вид",
+    "isChecked": false
+  },
+  {
+    "id": 251,
+    "enWord": "four",
+    "ukrWord": "чотири",
+    "isChecked": false
+  },
+  {
+    "id": 252,
+    "enWord": "head",
+    "ukrWord": "голова",
+    "isChecked": false
+  },
+  {
+    "id": 253,
+    "enWord": "far",
+    "ukrWord": "далекий",
+    "isChecked": false
+  },
+  {
+    "id": 254,
+    "enWord": "black",
+    "ukrWord": "чорний",
+    "isChecked": false
+  },
+  {
+    "id": 255,
+    "enWord": "long",
+    "ukrWord": "довгий",
+    "isChecked": false
+  },
+  {
+    "id": 256,
+    "enWord": "both",
+    "ukrWord": "обидва",
+    "isChecked": false
+  },
+  {
+    "id": 257,
+    "enWord": "little",
+    "ukrWord": "маленький",
+    "isChecked": false
+  },
+  {
+    "id": 258,
+    "enWord": "house",
+    "ukrWord": "хата",
+    "isChecked": false
+  },
+  {
+    "id": 259,
+    "enWord": "yes",
+    "ukrWord": "так",
+    "isChecked": false
+  },
+  {
+    "id": 260,
+    "enWord": "after",
+    "ukrWord": "після",
+    "isChecked": false
+  },
+  {
+    "id": 261,
+    "enWord": "since",
+    "ukrWord": "з",
+    "isChecked": false
+  },
+  {
+    "id": 262,
+    "enWord": "long",
+    "ukrWord": "довго",
+    "isChecked": false
+  },
+  {
+    "id": 263,
+    "enWord": "provide",
+    "ukrWord": "постачати",
+    "isChecked": false
+  },
+  {
+    "id": 264,
+    "enWord": "service",
+    "ukrWord": "сервіс",
+    "isChecked": false
+  },
+  {
+    "id": 265,
+    "enWord": "around",
+    "ukrWord": "навколо",
+    "isChecked": false
+  },
+  {
+    "id": 266,
+    "enWord": "friend",
+    "ukrWord": "один",
+    "isChecked": false
+  },
+  {
+    "id": 267,
+    "enWord": "important",
+    "ukrWord": "важливий",
+    "isChecked": false
+  },
+  {
+    "id": 268,
+    "enWord": "father",
+    "ukrWord": "батько",
+    "isChecked": false
+  },
+  {
+    "id": 269,
+    "enWord": "sit",
+    "ukrWord": "сидіти",
+    "isChecked": false
+  },
+  {
+    "id": 270,
+    "enWord": "away",
+    "ukrWord": "поза/далеко",
+    "isChecked": false
+  },
+  {
+    "id": 271,
+    "enWord": "until",
+    "ukrWord": "доти",
+    "isChecked": false
+  },
+  {
+    "id": 272,
+    "enWord": "power",
+    "ukrWord": "сила",
+    "isChecked": false
+  },
+  {
+    "id": 273,
+    "enWord": "hour",
+    "ukrWord": "година",
+    "isChecked": false
+  },
+  {
+    "id": 274,
+    "enWord": "game",
+    "ukrWord": "гра",
+    "isChecked": false
+  },
+  {
+    "id": 275,
+    "enWord": "often",
+    "ukrWord": "часто",
+    "isChecked": false
+  },
+  {
+    "id": 276,
+    "enWord": "yet",
+    "ukrWord": "досі",
+    "isChecked": false
+  },
+  {
+    "id": 277,
+    "enWord": "line",
+    "ukrWord": "лінія",
+    "isChecked": false
+  },
+  {
+    "id": 278,
+    "enWord": "political",
+    "ukrWord": "політичний",
+    "isChecked": false
+  },
+  {
+    "id": 279,
+    "enWord": "end",
+    "ukrWord": "кінець",
+    "isChecked": false
+  },
+  {
+    "id": 280,
+    "enWord": "among",
+    "ukrWord": "серед",
+    "isChecked": false
+  },
+  {
+    "id": 281,
+    "enWord": "ever",
+    "ukrWord": "завжди",
+    "isChecked": false
+  },
+  {
+    "id": 282,
+    "enWord": "stand",
+    "ukrWord": "стояти",
+    "isChecked": false
+  },
+  {
+    "id": 283,
+    "enWord": "bad",
+    "ukrWord": "поганий",
+    "isChecked": false
+  },
+  {
+    "id": 284,
+    "enWord": "lose",
+    "ukrWord": "втрачати",
+    "isChecked": false
+  },
+  {
+    "id": 285,
+    "enWord": "however",
+    "ukrWord": "проте",
+    "isChecked": false
+  },
+  {
+    "id": 286,
+    "enWord": "member",
+    "ukrWord": "учасник",
+    "isChecked": false
+  },
+  {
+    "id": 287,
+    "enWord": "pay",
+    "ukrWord": "платити",
+    "isChecked": false
+  },
+  {
+    "id": 288,
+    "enWord": "law",
+    "ukrWord": "закон",
+    "isChecked": false
+  },
+  {
+    "id": 289,
+    "enWord": "meet",
+    "ukrWord": "зустрічати",
+    "isChecked": false
+  },
+  {
+    "id": 290,
+    "enWord": "car",
+    "ukrWord": "автомобіль",
+    "isChecked": false
+  },
+  {
+    "id": 291,
+    "enWord": "city",
+    "ukrWord": "місто",
+    "isChecked": false
+  },
+  {
+    "id": 292,
+    "enWord": "almost",
+    "ukrWord": "майже",
+    "isChecked": false
+  },
+  {
+    "id": 293,
+    "enWord": "include",
+    "ukrWord": "включати",
+    "isChecked": false
+  },
+  {
+    "id": 294,
+    "enWord": "continue",
+    "ukrWord": "продовжувати",
+    "isChecked": false
+  },
+  {
+    "id": 295,
+    "enWord": "set",
+    "ukrWord": "встановлювати",
+    "isChecked": false
+  },
+  {
+    "id": 296,
+    "enWord": "later",
+    "ukrWord": "пізніше",
+    "isChecked": false
+  },
+  {
+    "id": 297,
+    "enWord": "community",
+    "ukrWord": "співтовариство",
+    "isChecked": false
+  },
+  {
+    "id": 298,
+    "enWord": "much",
+    "ukrWord": "значно",
+    "isChecked": false
+  },
+  {
+    "id": 299,
+    "enWord": "name",
+    "ukrWord": "ім'я",
+    "isChecked": false
+  },
+  {
+    "id": 300,
+    "enWord": "five",
+    "ukrWord": "п'ять",
+    "isChecked": false
+  },
+  {
+    "id": 301,
+    "enWord": "once",
+    "ukrWord": "одного разу",
+    "isChecked": false
+  },
+  {
+    "id": 302,
+    "enWord": "white",
+    "ukrWord": "білий",
+    "isChecked": false
+  },
+  {
+    "id": 303,
+    "enWord": "least",
+    "ukrWord": "найменш",
+    "isChecked": false
+  },
+  {
+    "id": 304,
+    "enWord": "president",
+    "ukrWord": "президент",
+    "isChecked": false
+  },
+  {
+    "id": 305,
+    "enWord": "learn",
+    "ukrWord": "вчити",
+    "isChecked": false
+  },
+  {
+    "id": 306,
+    "enWord": "real",
+    "ukrWord": "справжній",
+    "isChecked": false
+  },
+  {
+    "id": 307,
+    "enWord": "change",
+    "ukrWord": "змінювати",
+    "isChecked": false
+  },
+  {
+    "id": 308,
+    "enWord": "team",
+    "ukrWord": "команда",
+    "isChecked": false
+  },
+  {
+    "id": 309,
+    "enWord": "minute",
+    "ukrWord": "хвилина",
+    "isChecked": false
+  },
+  {
+    "id": 310,
+    "enWord": "best",
+    "ukrWord": "кращий",
+    "isChecked": false
+  },
+  {
+    "id": 311,
+    "enWord": "several",
+    "ukrWord": "кілька",
+    "isChecked": false
+  },
+  {
+    "id": 312,
+    "enWord": "idea",
+    "ukrWord": "ідея",
+    "isChecked": false
+  },
+  {
+    "id": 313,
+    "enWord": "kid",
+    "ukrWord": "дитина",
+    "isChecked": false
+  },
+  {
+    "id": 314,
+    "enWord": "body",
+    "ukrWord": "тіло",
+    "isChecked": false
+  },
+  {
+    "id": 315,
+    "enWord": "information",
+    "ukrWord": "інформація",
+    "isChecked": false
+  },
+  {
+    "id": 316,
+    "enWord": "nothing",
+    "ukrWord": "нічого",
+    "isChecked": false
+  },
+  {
+    "id": 317,
+    "enWord": "ago",
+    "ukrWord": "тому назад",
+    "isChecked": false
+  },
+  {
+    "id": 318,
+    "enWord": "right",
+    "ukrWord": "право",
+    "isChecked": false
+  },
+  {
+    "id": 319,
+    "enWord": "lead",
+    "ukrWord": "вести",
+    "isChecked": false
+  },
+  {
+    "id": 320,
+    "enWord": "social",
+    "ukrWord": "соціальний",
+    "isChecked": false
+  },
+  {
+    "id": 321,
+    "enWord": "understand",
+    "ukrWord": "розуміти",
+    "isChecked": false
+  },
+  {
+    "id": 322,
+    "enWord": "whatever",
+    "ukrWord": "без різниці",
+    "isChecked": false
+  },
+  {
+    "id": 323,
+    "enWord": "back",
+    "ukrWord": "зад",
+    "isChecked": false
+  },
+  {
+    "id": 324,
+    "enWord": "watch",
+    "ukrWord": "дивитися",
+    "isChecked": false
+  },
+  {
+    "id": 325,
+    "enWord": "together",
+    "ukrWord": "разом",
+    "isChecked": false
+  },
+  {
+    "id": 326,
+    "enWord": "fellow",
+    "ukrWord": "людина",
+    "isChecked": false
+  },
+  {
+    "id": 327,
+    "enWord": "around",
+    "ukrWord": "навколо",
+    "isChecked": false
+  },
+  {
+    "id": 328,
+    "enWord": "parent",
+    "ukrWord": "батько",
+    "isChecked": false
+  },
+  {
+    "id": 329,
+    "enWord": "only",
+    "ukrWord": "тільки",
+    "isChecked": false
+  },
+  {
+    "id": 330,
+    "enWord": "stop",
+    "ukrWord": "зупинятися",
+    "isChecked": false
+  },
+  {
+    "id": 331,
+    "enWord": "face",
+    "ukrWord": "особа",
+    "isChecked": false
+  },
+  {
+    "id": 332,
+    "enWord": "anything",
+    "ukrWord": "що-небудь",
+    "isChecked": false
+  },
+  {
+    "id": 333,
+    "enWord": "create",
+    "ukrWord": "створювати",
+    "isChecked": false
+  },
+  {
+    "id": 334,
+    "enWord": "public",
+    "ukrWord": "громадський",
+    "isChecked": false
+  },
+  {
+    "id": 335,
+    "enWord": "already",
+    "ukrWord": "вже",
+    "isChecked": false
+  },
+  {
+    "id": 336,
+    "enWord": "speak",
+    "ukrWord": "спілкуватися",
+    "isChecked": false
+  },
+  {
+    "id": 337,
+    "enWord": "others",
+    "ukrWord": "інші",
+    "isChecked": false
+  },
+  {
+    "id": 338,
+    "enWord": "read",
+    "ukrWord": "читати",
+    "isChecked": false
+  },
+  {
+    "id": 339,
+    "enWord": "level",
+    "ukrWord": "рівень",
+    "isChecked": false
+  },
+  {
+    "id": 340,
+    "enWord": "allow",
+    "ukrWord": "дозволяти",
+    "isChecked": false
+  },
+  {
+    "id": 341,
+    "enWord": "add",
+    "ukrWord": "додавати",
+    "isChecked": false
+  },
+  {
+    "id": 342,
+    "enWord": "office",
+    "ukrWord": "офіс",
+    "isChecked": false
+  },
+  {
+    "id": 343,
+    "enWord": "spend",
+    "ukrWord": "проводити",
+    "isChecked": false
+  },
+  {
+    "id": 344,
+    "enWord": "door",
+    "ukrWord": "двері",
+    "isChecked": false
+  },
+  {
+    "id": 345,
+    "enWord": "health",
+    "ukrWord": "здоров'я",
+    "isChecked": false
+  },
+  {
+    "id": 346,
+    "enWord": "person",
+    "ukrWord": "людина",
+    "isChecked": false
+  },
+  {
+    "id": 347,
+    "enWord": "art",
+    "ukrWord": "мистецтво",
+    "isChecked": false
+  },
+  {
+    "id": 348,
+    "enWord": "sure",
+    "ukrWord": "звісно",
+    "isChecked": false
+  },
+  {
+    "id": 349,
+    "enWord": "such",
+    "ukrWord": "такий",
+    "isChecked": false
+  },
+  {
+    "id": 350,
+    "enWord": "war",
+    "ukrWord": "війна",
+    "isChecked": false
+  },
+  {
+    "id": 351,
+    "enWord": "history",
+    "ukrWord": "історія",
+    "isChecked": false
+  },
+  {
+    "id": 352,
+    "enWord": "party",
+    "ukrWord": "вечірка",
+    "isChecked": false
+  },
+  {
+    "id": 353,
+    "enWord": "within",
+    "ukrWord": "в межах",
+    "isChecked": false
+  },
+  {
+    "id": 354,
+    "enWord": "grow",
+    "ukrWord": "рости",
+    "isChecked": false
+  },
+  {
+    "id": 355,
+    "enWord": "result",
+    "ukrWord": "результат",
+    "isChecked": false
+  },
+  {
+    "id": 356,
+    "enWord": "open",
+    "ukrWord": "відкривати",
+    "isChecked": false
+  },
+  {
+    "id": 357,
+    "enWord": "change",
+    "ukrWord": "змінювати",
+    "isChecked": false
+  },
+  {
+    "id": 358,
+    "enWord": "morning",
+    "ukrWord": "ранок",
+    "isChecked": false
+  },
+  {
+    "id": 359,
+    "enWord": "walk",
+    "ukrWord": "гуляти",
+    "isChecked": false
+  },
+  {
+    "id": 360,
+    "enWord": "reason",
+    "ukrWord": "причина",
+    "isChecked": false
+  },
+  {
+    "id": 361,
+    "enWord": "low",
+    "ukrWord": "низький",
+    "isChecked": false
+  },
+  {
+    "id": 362,
+    "enWord": "win",
+    "ukrWord": "перемагати",
+    "isChecked": false
+  },
+  {
+    "id": 363,
+    "enWord": "research",
+    "ukrWord": "дослідження",
+    "isChecked": false
+  },
+  {
+    "id": 364,
+    "enWord": "girl",
+    "ukrWord": "дівчинка",
+    "isChecked": false
+  },
+  {
+    "id": 365,
+    "enWord": "guy",
+    "ukrWord": "хлопець",
+    "isChecked": false
+  },
+  {
+    "id": 366,
+    "enWord": "early",
+    "ukrWord": "рано",
+    "isChecked": false
+  },
+  {
+    "id": 367,
+    "enWord": "food",
+    "ukrWord": "їжа",
+    "isChecked": false
+  },
+  {
+    "id": 368,
+    "enWord": "before",
+    "ukrWord": "раніше",
+    "isChecked": false
+  },
+  {
+    "id": 369,
+    "enWord": "moment",
+    "ukrWord": "момент",
+    "isChecked": false
+  },
+  {
+    "id": 370,
+    "enWord": "himself",
+    "ukrWord": "сам",
+    "isChecked": false
+  },
+  {
+    "id": 371,
+    "enWord": "air",
+    "ukrWord": "повітря",
+    "isChecked": false
+  },
+  {
+    "id": 372,
+    "enWord": "teacher",
+    "ukrWord": "учитель",
+    "isChecked": false
+  },
+  {
+    "id": 373,
+    "enWord": "force",
+    "ukrWord": "сила",
+    "isChecked": false
+  },
+  {
+    "id": 374,
+    "enWord": "offer",
+    "ukrWord": "пропонувати",
+    "isChecked": false
+  },
+  {
+    "id": 375,
+    "enWord": "enough",
+    "ukrWord": "досить",
+    "isChecked": false
+  },
+  {
+    "id": 376,
+    "enWord": "both",
+    "ukrWord": "обидва",
+    "isChecked": false
+  },
+  {
+    "id": 377,
+    "enWord": "education",
+    "ukrWord": "утворення",
+    "isChecked": false
+  },
+  {
+    "id": 378,
+    "enWord": "across",
+    "ukrWord": "через",
+    "isChecked": false
+  },
+  {
+    "id": 379,
+    "enWord": "although",
+    "ukrWord": "хоча",
+    "isChecked": false
+  },
+  {
+    "id": 380,
+    "enWord": "remember",
+    "ukrWord": "пам'ятати",
+    "isChecked": false
+  },
+  {
+    "id": 381,
+    "enWord": "food",
+    "ukrWord": "їжа",
+    "isChecked": false
+  },
+  {
+    "id": 382,
+    "enWord": "second",
+    "ukrWord": "другий",
+    "isChecked": false
+  },
+  {
+    "id": 383,
+    "enWord": "boy",
+    "ukrWord": "хлопчик",
+    "isChecked": false
+  },
+  {
+    "id": 384,
+    "enWord": "maybe",
+    "ukrWord": "можливо",
+    "isChecked": false
+  },
+  {
+    "id": 385,
+    "enWord": "toward",
+    "ukrWord": "до",
+    "isChecked": false
+  },
+  {
+    "id": 386,
+    "enWord": "able",
+    "ukrWord": "здатний",
+    "isChecked": false
+  },
+  {
+    "id": 387,
+    "enWord": "age",
+    "ukrWord": "вік",
+    "isChecked": false
+  },
+  {
+    "id": 388,
+    "enWord": "off",
+    "ukrWord": "від/геть",
+    "isChecked": false
+  },
+  {
+    "id": 389,
+    "enWord": "policy",
+    "ukrWord": "політика",
+    "isChecked": false
+  },
+  {
+    "id": 390,
+    "enWord": "everything",
+    "ukrWord": "усе",
+    "isChecked": false
+  },
+  {
+    "id": 391,
+    "enWord": "love",
+    "ukrWord": "кохання",
+    "isChecked": false
+  },
+  {
+    "id": 392,
+    "enWord": "process",
+    "ukrWord": "процес",
+    "isChecked": false
+  },
+  {
+    "id": 393,
+    "enWord": "music",
+    "ukrWord": "музика",
+    "isChecked": false
+  },
+  {
+    "id": 394,
+    "enWord": "including",
+    "ukrWord": "включаючи",
+    "isChecked": false
+  },
+  {
+    "id": 395,
+    "enWord": "consider",
+    "ukrWord": "розглядати",
+    "isChecked": false
+  },
+  {
+    "id": 396,
+    "enWord": "appear",
+    "ukrWord": "з'являтися",
+    "isChecked": false
+  },
+  {
+    "id": 397,
+    "enWord": "actually",
+    "ukrWord": "насправді",
+    "isChecked": false
+  },
+  {
+    "id": 398,
+    "enWord": "buy",
+    "ukrWord": "купувати",
+    "isChecked": false
+  },
+  {
+    "id": 399,
+    "enWord": "probably",
+    "ukrWord": "ймовірно",
+    "isChecked": false
+  },
+  {
+    "id": 400,
+    "enWord": "human",
+    "ukrWord": "людина",
+    "isChecked": false
+  },
+  {
+    "id": 401,
+    "enWord": "wait",
+    "ukrWord": "чекати",
+    "isChecked": false
+  },
+  {
+    "id": 402,
+    "enWord": "serve",
+    "ukrWord": "обслуговувати",
+    "isChecked": false
+  },
+  {
+    "id": 403,
+    "enWord": "market",
+    "ukrWord": "ринок",
+    "isChecked": false
+  },
+  {
+    "id": 404,
+    "enWord": "die",
+    "ukrWord": "вмирати",
+    "isChecked": false
+  },
+  {
+    "id": 405,
+    "enWord": "send",
+    "ukrWord": "відправляти",
+    "isChecked": false
+  },
+  {
+    "id": 406,
+    "enWord": "expect",
+    "ukrWord": "очікувати",
+    "isChecked": false
+  },
+  {
+    "id": 407,
+    "enWord": "home",
+    "ukrWord": "додому",
+    "isChecked": false
+  },
+  {
+    "id": 408,
+    "enWord": "sense",
+    "ukrWord": "сенс",
+    "isChecked": false
+  },
+  {
+    "id": 409,
+    "enWord": "build",
+    "ukrWord": "будувати",
+    "isChecked": false
+  },
+  {
+    "id": 410,
+    "enWord": "stay",
+    "ukrWord": "залишатися",
+    "isChecked": false
+  },
+  {
+    "id": 411,
+    "enWord": "fall",
+    "ukrWord": "падати",
+    "isChecked": false
+  },
+  {
+    "id": 412,
+    "enWord": "oh",
+    "ukrWord": "ох",
+    "isChecked": false
+  },
+  {
+    "id": 413,
+    "enWord": "nation",
+    "ukrWord": "нація",
+    "isChecked": false
+  },
+  {
+    "id": 414,
+    "enWord": "plan",
+    "ukrWord": "план",
+    "isChecked": false
+  },
+  {
+    "id": 415,
+    "enWord": "cut",
+    "ukrWord": "різати",
+    "isChecked": false
+  },
+  {
+    "id": 416,
+    "enWord": "college",
+    "ukrWord": "коледж",
+    "isChecked": false
+  },
+  {
+    "id": 417,
+    "enWord": "interest",
+    "ukrWord": "інтерес",
+    "isChecked": false
+  },
+  {
+    "id": 418,
+    "enWord": "death",
+    "ukrWord": "смерть",
+    "isChecked": false
+  },
+  {
+    "id": 419,
+    "enWord": "course",
+    "ukrWord": "курс",
+    "isChecked": false
+  },
+  {
+    "id": 420,
+    "enWord": "someone",
+    "ukrWord": "дехто",
+    "isChecked": false
+  },
+  {
+    "id": 421,
+    "enWord": "experiance",
+    "ukrWord": "досвід",
+    "isChecked": false
+  },
+  {
+    "id": 422,
+    "enWord": "behind",
+    "ukrWord": "ззаду/за",
+    "isChecked": false
+  },
+  {
+    "id": 423,
+    "enWord": "reach",
+    "ukrWord": "досягати",
+    "isChecked": false
+  },
+  {
+    "id": 424,
+    "enWord": "local",
+    "ukrWord": "місцевий",
+    "isChecked": false
+  },
+  {
+    "id": 425,
+    "enWord": "kill",
+    "ukrWord": "вбивати",
+    "isChecked": false
+  },
+  {
+    "id": 426,
+    "enWord": "six",
+    "ukrWord": "шість",
+    "isChecked": false
+  },
+  {
+    "id": 427,
+    "enWord": "remain",
+    "ukrWord": "залишатися",
+    "isChecked": false
+  },
+  {
+    "id": 428,
+    "enWord": "effect",
+    "ukrWord": "впливати",
+    "isChecked": false
+  },
+  {
+    "id": 429,
+    "enWord": "use",
+    "ukrWord": "використовувати",
+    "isChecked": false
+  },
+  {
+    "id": 430,
+    "enWord": "yeah",
+    "ukrWord": "так (розм.)",
+    "isChecked": false
+  },
+  {
+    "id": 431,
+    "enWord": "suggest",
+    "ukrWord": "пропонувати",
+    "isChecked": false
+  },
+  {
+    "id": 432,
+    "enWord": "class",
+    "ukrWord": "клас",
+    "isChecked": false
+  },
+  {
+    "id": 433,
+    "enWord": "control",
+    "ukrWord": "контроль",
+    "isChecked": false
+  },
+  {
+    "id": 434,
+    "enWord": "raise",
+    "ukrWord": "рости",
+    "isChecked": false
+  },
+  {
+    "id": 435,
+    "enWord": "care",
+    "ukrWord": "турбота",
+    "isChecked": false
+  },
+  {
+    "id": 436,
+    "enWord": "perhaps",
+    "ukrWord": "можливо",
+    "isChecked": false
+  },
+  {
+    "id": 437,
+    "enWord": "little",
+    "ukrWord": "трохи",
+    "isChecked": false
+  },
+  {
+    "id": 438,
+    "enWord": "late",
+    "ukrWord": "пізній",
+    "isChecked": false
+  },
+  {
+    "id": 439,
+    "enWord": "hard",
+    "ukrWord": "важкий",
+    "isChecked": false
+  },
+  {
+    "id": 440,
+    "enWord": "field",
+    "ukrWord": "поле",
+    "isChecked": false
+  },
+  {
+    "id": 441,
+    "enWord": "else",
+    "ukrWord": "інший",
+    "isChecked": false
+  },
+  {
+    "id": 442,
+    "enWord": "pass",
+    "ukrWord": "проходити",
+    "isChecked": false
+  },
+  {
+    "id": 443,
+    "enWord": "former",
+    "ukrWord": "колишній",
+    "isChecked": false
+  },
+  {
+    "id": 444,
+    "enWord": "sell",
+    "ukrWord": "продавати",
+    "isChecked": false
+  },
+  {
+    "id": 445,
+    "enWord": "major",
+    "ukrWord": "основний",
+    "isChecked": false
+  },
+  {
+    "id": 446,
+    "enWord": "sometimes",
+    "ukrWord": "іноді",
+    "isChecked": false
+  },
+  {
+    "id": 447,
+    "enWord": "require",
+    "ukrWord": "вимагати",
+    "isChecked": false
+  },
+  {
+    "id": 448,
+    "enWord": "along",
+    "ukrWord": "разом",
+    "isChecked": false
+  },
+  {
+    "id": 449,
+    "enWord": "development",
+    "ukrWord": "розвиток",
+    "isChecked": false
+  },
+  {
+    "id": 450,
+    "enWord": "themselves",
+    "ukrWord": "самі",
+    "isChecked": false
+  },
+  {
+    "id": 451,
+    "enWord": "report",
+    "ukrWord": "доповідати",
+    "isChecked": false
+  },
+  {
+    "id": 452,
+    "enWord": "role",
+    "ukrWord": "роль",
+    "isChecked": false
+  },
+  {
+    "id": 453,
+    "enWord": "better",
+    "ukrWord": "краще",
+    "isChecked": false
+  },
+  {
+    "id": 454,
+    "enWord": "economic",
+    "ukrWord": "економічний",
+    "isChecked": false
+  },
+  {
+    "id": 455,
+    "enWord": "effort",
+    "ukrWord": "зусилля",
+    "isChecked": false
+  },
+  {
+    "id": 456,
+    "enWord": "up",
+    "ukrWord": "вгору",
+    "isChecked": false
+  },
+  {
+    "id": 457,
+    "enWord": "decide",
+    "ukrWord": "вирішувати",
+    "isChecked": false
+  },
+  {
+    "id": 458,
+    "enWord": "rate",
+    "ukrWord": "темп",
+    "isChecked": false
+  },
+  {
+    "id": 459,
+    "enWord": "strong",
+    "ukrWord": "сильний",
+    "isChecked": false
+  },
+  {
+    "id": 460,
+    "enWord": "possible",
+    "ukrWord": "можливий",
+    "isChecked": false
+  },
+  {
+    "id": 461,
+    "enWord": "heart",
+    "ukrWord": "серце",
+    "isChecked": false
+  },
+  {
+    "id": 462,
+    "enWord": "drug",
+    "ukrWord": "ліки/наркотик",
+    "isChecked": false
+  },
+  {
+    "id": 463,
+    "enWord": "show",
+    "ukrWord": "показувати",
+    "isChecked": false
+  },
+  {
+    "id": 464,
+    "enWord": "leader",
+    "ukrWord": "лідер",
+    "isChecked": false
+  },
+  {
+    "id": 465,
+    "enWord": "light",
+    "ukrWord": "світло",
+    "isChecked": false
+  },
+  {
+    "id": 466,
+    "enWord": "voice",
+    "ukrWord": "голос",
+    "isChecked": false
+  },
+  {
+    "id": 467,
+    "enWord": "wife",
+    "ukrWord": "дружина",
+    "isChecked": false
+  },
+  {
+    "id": 468,
+    "enWord": "whole",
+    "ukrWord": "цілий",
+    "isChecked": false
+  },
+  {
+    "id": 469,
+    "enWord": "police",
+    "ukrWord": "поліція",
+    "isChecked": false
+  },
+  {
+    "id": 470,
+    "enWord": "mind",
+    "ukrWord": "розум",
+    "isChecked": false
+  },
+  {
+    "id": 471,
+    "enWord": "finally",
+    "ukrWord": "нарешті",
+    "isChecked": false
+  },
+  {
+    "id": 472,
+    "enWord": "pull",
+    "ukrWord": "тягнути",
+    "isChecked": false
+  },
+  {
+    "id": 473,
+    "enWord": "return",
+    "ukrWord": "повертатися",
+    "isChecked": false
+  },
+  {
+    "id": 474,
+    "enWord": "free",
+    "ukrWord": "безкоштовний/вільний",
+    "isChecked": false
+  },
+  {
+    "id": 475,
+    "enWord": "military",
+    "ukrWord": "військовий",
+    "isChecked": false
+  },
+  {
+    "id": 476,
+    "enWord": "price",
+    "ukrWord": "ціна",
+    "isChecked": false
+  },
+  {
+    "id": 477,
+    "enWord": "report",
+    "ukrWord": "звіт",
+    "isChecked": false
+  },
+  {
+    "id": 478,
+    "enWord": "less",
+    "ukrWord": "менше",
+    "isChecked": false
+  },
+  {
+    "id": 479,
+    "enWord": "according",
+    "ukrWord": "відповідно",
+    "isChecked": false
+  },
+  {
+    "id": 480,
+    "enWord": "decision",
+    "ukrWord": "рішення",
+    "isChecked": false
+  },
+  {
+    "id": 481,
+    "enWord": "explain",
+    "ukrWord": "пояснювати",
+    "isChecked": false
+  },
+  {
+    "id": 482,
+    "enWord": "son",
+    "ukrWord": "син",
+    "isChecked": false
+  },
+  {
+    "id": 483,
+    "enWord": "hope",
+    "ukrWord": "сподіватися",
+    "isChecked": false
+  },
+  {
+    "id": 484,
+    "enWord": "even",
+    "ukrWord": "навіть",
+    "isChecked": false
+  },
+  {
+    "id": 485,
+    "enWord": "develop",
+    "ukrWord": "розвивати",
+    "isChecked": false
+  },
+  {
+    "id": 486,
+    "enWord": "view",
+    "ukrWord": "бачення",
+    "isChecked": false
+  },
+  {
+    "id": 487,
+    "enWord": "relationship",
+    "ukrWord": "відношення",
+    "isChecked": false
+  },
+  {
+    "id": 488,
+    "enWord": "carry",
+    "ukrWord": "нести",
+    "isChecked": false
+  },
+  {
+    "id": 489,
+    "enWord": "town",
+    "ukrWord": "місто",
+    "isChecked": false
+  },
+  {
+    "id": 490,
+    "enWord": "road",
+    "ukrWord": "дорога",
+    "isChecked": false
+  },
+  {
+    "id": 491,
+    "enWord": "drive",
+    "ukrWord": "водити",
+    "isChecked": false
+  },
+  {
+    "id": 492,
+    "enWord": "arm",
+    "ukrWord": "рука",
+    "isChecked": false
+  },
+  {
+    "id": 493,
+    "enWord": "true",
+    "ukrWord": "правильний",
+    "isChecked": false
+  },
+  {
+    "id": 494,
+    "enWord": "federal",
+    "ukrWord": "федеральний",
+    "isChecked": false
+  },
+  {
+    "id": 495,
+    "enWord": "break",
+    "ukrWord": "ламати",
+    "isChecked": false
+  },
+  {
+    "id": 496,
+    "enWord": "better",
+    "ukrWord": "краще",
+    "isChecked": false
+  },
+  {
+    "id": 497,
+    "enWord": "difference",
+    "ukrWord": "різниця",
+    "isChecked": false
+  },
+  {
+    "id": 498,
+    "enWord": "thank",
+    "ukrWord": "подяку",
+    "isChecked": false
+  },
+  {
+    "id": 499,
+    "enWord": "receive",
+    "ukrWord": "отримувати",
+    "isChecked": false
+  },
+  {
+    "id": 500,
+    "enWord": "value",
+    "ukrWord": "значення",
+    "isChecked": false
+  },
+  {
+    "id": 501,
+    "enWord": "international",
+    "ukrWord": "міжнародний",
+    "isChecked": false
+  },
+  {
+    "id": 502,
+    "enWord": "building",
+    "ukrWord": "споруда",
+    "isChecked": false
+  },
+  {
+    "id": 503,
+    "enWord": "action",
+    "ukrWord": "дія",
+    "isChecked": false
+  },
+  {
+    "id": 504,
+    "enWord": "full",
+    "ukrWord": "повний",
+    "isChecked": false
+  },
+  {
+    "id": 505,
+    "enWord": "model",
+    "ukrWord": "Модель",
+    "isChecked": false
+  },
+  {
+    "id": 506,
+    "enWord": "join",
+    "ukrWord": "приєднуватися",
+    "isChecked": false
+  },
+  {
+    "id": 507,
+    "enWord": "season",
+    "ukrWord": "сезон",
+    "isChecked": false
+  },
+  {
+    "id": 508,
+    "enWord": "society",
+    "ukrWord": "суспільство",
+    "isChecked": false
+  },
+  {
+    "id": 509,
+    "enWord": "because",
+    "ukrWord": "так як",
+    "isChecked": false
+  },
+  {
+    "id": 510,
+    "enWord": "tax",
+    "ukrWord": "податок",
+    "isChecked": false
+  },
+  {
+    "id": 511,
+    "enWord": "director",
+    "ukrWord": "директор",
+    "isChecked": false
+  },
+  {
+    "id": 512,
+    "enWord": "early",
+    "ukrWord": "початковий",
+    "isChecked": false
+  },
+  {
+    "id": 513,
+    "enWord": "position",
+    "ukrWord": "позиція/посада",
+    "isChecked": false
+  },
+  {
+    "id": 514,
+    "enWord": "player",
+    "ukrWord": "гравець",
+    "isChecked": false
+  },
+  {
+    "id": 515,
+    "enWord": "agree",
+    "ukrWord": "погоджуватися",
+    "isChecked": false
+  },
+  {
+    "id": 516,
+    "enWord": "especially",
+    "ukrWord": "особливо",
+    "isChecked": false
+  },
+  {
+    "id": 517,
+    "enWord": "record",
+    "ukrWord": "записувати",
+    "isChecked": false
+  },
+  {
+    "id": 518,
+    "enWord": "pick",
+    "ukrWord": "вибирати",
+    "isChecked": false
+  },
+  {
+    "id": 519,
+    "enWord": "wear",
+    "ukrWord": "носити одяг",
+    "isChecked": false
+  },
+  {
+    "id": 520,
+    "enWord": "paper",
+    "ukrWord": "папір",
+    "isChecked": false
+  },
+  {
+    "id": 521,
+    "enWord": "special",
+    "ukrWord": "спеціально",
+    "isChecked": false
+  },
+  {
+    "id": 522,
+    "enWord": "space",
+    "ukrWord": "простір",
+    "isChecked": false
+  },
+  {
+    "id": 523,
+    "enWord": "ground",
+    "ukrWord": "земля",
+    "isChecked": false
+  },
+  {
+    "id": 524,
+    "enWord": "form",
+    "ukrWord": "форма",
+    "isChecked": false
+  },
+  {
+    "id": 525,
+    "enWord": "support",
+    "ukrWord": "підтримка",
+    "isChecked": false
+  },
+  {
+    "id": 526,
+    "enWord": "event",
+    "ukrWord": "подія",
+    "isChecked": false
+  },
+  {
+    "id": 527,
+    "enWord": "official",
+    "ukrWord": "офіційний",
+    "isChecked": false
+  },
+  {
+    "id": 528,
+    "enWord": "whose",
+    "ukrWord": "чий",
+    "isChecked": false
+  },
+  {
+    "id": 529,
+    "enWord": "matter",
+    "ukrWord": "мати значення",
+    "isChecked": false
+  },
+  {
+    "id": 530,
+    "enWord": "everyone",
+    "ukrWord": "всі",
+    "isChecked": false
+  },
+  {
+    "id": 531,
+    "enWord": "center",
+    "ukrWord": "центр",
+    "isChecked": false
+  },
+  {
+    "id": 532,
+    "enWord": "couple",
+    "ukrWord": "пара",
+    "isChecked": false
+  },
+  {
+    "id": 533,
+    "enWord": "site",
+    "ukrWord": "сайт",
+    "isChecked": false
+  },
+  {
+    "id": 534,
+    "enWord": "end",
+    "ukrWord": "кінець",
+    "isChecked": false
+  },
+  {
+    "id": 535,
+    "enWord": "project",
+    "ukrWord": "проект",
+    "isChecked": false
+  },
+  {
+    "id": 536,
+    "enWord": "hit",
+    "ukrWord": "вражати (мета)",
+    "isChecked": false
+  },
+  {
+    "id": 537,
+    "enWord": "base",
+    "ukrWord": "основа",
+    "isChecked": false
+  },
+  {
+    "id": 538,
+    "enWord": "activity",
+    "ukrWord": "заняття",
+    "isChecked": false
+  },
+  {
+    "id": 539,
+    "enWord": "star",
+    "ukrWord": "зірка",
+    "isChecked": false
+  },
+  {
+    "id": 540,
+    "enWord": "table",
+    "ukrWord": "стіл",
+    "isChecked": false
+  },
+  {
+    "id": 541,
+    "enWord": "need",
+    "ukrWord": "необхідність",
+    "isChecked": false
+  },
+  {
+    "id": 542,
+    "enWord": "court",
+    "ukrWord": "корт",
+    "isChecked": false
+  },
+  {
+    "id": 543,
+    "enWord": "produce",
+    "ukrWord": "виробляти",
+    "isChecked": false
+  },
+  {
+    "id": 544,
+    "enWord": "eat",
+    "ukrWord": "їсти",
+    "isChecked": false
+  },
+  {
+    "id": 545,
+    "enWord": "American",
+    "ukrWord": "американець",
+    "isChecked": false
+  },
+  {
+    "id": 546,
+    "enWord": "teach",
+    "ukrWord": "викладати",
+    "isChecked": false
+  },
+  {
+    "id": 547,
+    "enWord": "oil",
+    "ukrWord": "масло",
+    "isChecked": false
+  },
+  {
+    "id": 548,
+    "enWord": "half",
+    "ukrWord": "половина",
+    "isChecked": false
+  },
+  {
+    "id": 549,
+    "enWord": "situation",
+    "ukrWord": "ситуація",
+    "isChecked": false
+  },
+  {
+    "id": 550,
+    "enWord": "easy",
+    "ukrWord": "легко",
+    "isChecked": false
+  },
+  {
+    "id": 551,
+    "enWord": "cost",
+    "ukrWord": "вартість",
+    "isChecked": false
+  },
+  {
+    "id": 552,
+    "enWord": "industry",
+    "ukrWord": "індустрія",
+    "isChecked": false
+  },
+  {
+    "id": 553,
+    "enWord": "figure",
+    "ukrWord": "фігура",
+    "isChecked": false
+  },
+  {
+    "id": 554,
+    "enWord": "face",
+    "ukrWord": "особа",
+    "isChecked": false
+  },
+  {
+    "id": 555,
+    "enWord": "street",
+    "ukrWord": "вулиця",
+    "isChecked": false
+  },
+  {
+    "id": 556,
+    "enWord": "image",
+    "ukrWord": "зображення",
+    "isChecked": false
+  },
+  {
+    "id": 557,
+    "enWord": "itself",
+    "ukrWord": "саме",
+    "isChecked": false
+  },
+  {
+    "id": 558,
+    "enWord": "phone",
+    "ukrWord": "телефон",
+    "isChecked": false
+  },
+  {
+    "id": 559,
+    "enWord": "either",
+    "ukrWord": "або",
+    "isChecked": false
+  },
+  {
+    "id": 560,
+    "enWord": "data",
+    "ukrWord": "дані",
+    "isChecked": false
+  },
+  {
+    "id": 561,
+    "enWord": "cover",
+    "ukrWord": "покривати",
+    "isChecked": false
+  },
+  {
+    "id": 562,
+    "enWord": "quite",
+    "ukrWord": "досить",
+    "isChecked": false
+  },
+  {
+    "id": 563,
+    "enWord": "picture",
+    "ukrWord": "картинка",
+    "isChecked": false
+  },
+  {
+    "id": 564,
+    "enWord": "clear",
+    "ukrWord": "чисто",
+    "isChecked": false
+  },
+  {
+    "id": 565,
+    "enWord": "practice",
+    "ukrWord": "практика",
+    "isChecked": false
+  },
+  {
+    "id": 566,
+    "enWord": "piece",
+    "ukrWord": "мир",
+    "isChecked": false
+  },
+  {
+    "id": 567,
+    "enWord": "land",
+    "ukrWord": "земля",
+    "isChecked": false
+  },
+  {
+    "id": 568,
+    "enWord": "recent",
+    "ukrWord": "недавній",
+    "isChecked": false
+  },
+  {
+    "id": 569,
+    "enWord": "describe",
+    "ukrWord": "описувати",
+    "isChecked": false
+  },
+  {
+    "id": 570,
+    "enWord": "product",
+    "ukrWord": "продукт",
+    "isChecked": false
+  },
+  {
+    "id": 571,
+    "enWord": "doctor",
+    "ukrWord": "доктор",
+    "isChecked": false
+  },
+  {
+    "id": 572,
+    "enWord": "wall",
+    "ukrWord": "стіна",
+    "isChecked": false
+  },
+  {
+    "id": 573,
+    "enWord": "patient",
+    "ukrWord": "пацієнт",
+    "isChecked": false
+  },
+  {
+    "id": 574,
+    "enWord": "worker",
+    "ukrWord": "робочий",
+    "isChecked": false
+  },
+  {
+    "id": 575,
+    "enWord": "news",
+    "ukrWord": "новини",
+    "isChecked": false
+  },
+  {
+    "id": 576,
+    "enWord": "test",
+    "ukrWord": "тест",
+    "isChecked": false
+  },
+  {
+    "id": 577,
+    "enWord": "movie",
+    "ukrWord": "фільм",
+    "isChecked": false
+  },
+  {
+    "id": 578,
+    "enWord": "certain",
+    "ukrWord": "певний",
+    "isChecked": false
+  },
+  {
+    "id": 579,
+    "enWord": "north",
+    "ukrWord": "північ",
+    "isChecked": false
+  },
+  {
+    "id": 580,
+    "enWord": "love",
+    "ukrWord": "кохання",
+    "isChecked": false
+  },
+  {
+    "id": 581,
+    "enWord": "personal",
+    "ukrWord": "особистий",
+    "isChecked": false
+  },
+  {
+    "id": 582,
+    "enWord": "open",
+    "ukrWord": "відкритий",
+    "isChecked": false
+  },
+  {
+    "id": 583,
+    "enWord": "support",
+    "ukrWord": "допомога",
+    "isChecked": false
+  },
+  {
+    "id": 584,
+    "enWord": "simply",
+    "ukrWord": "легко",
+    "isChecked": false
+  },
+  {
+    "id": 585,
+    "enWord": "third",
+    "ukrWord": "третій",
+    "isChecked": false
+  },
+  {
+    "id": 586,
+    "enWord": "technology",
+    "ukrWord": "технологія",
+    "isChecked": false
+  },
+  {
+    "id": 587,
+    "enWord": "catch",
+    "ukrWord": "ловити",
+    "isChecked": false
+  },
+  {
+    "id": 588,
+    "enWord": "step",
+    "ukrWord": "крок",
+    "isChecked": false
+  },
+  {
+    "id": 589,
+    "enWord": "baby",
+    "ukrWord": "немовля",
+    "isChecked": false
+  },
+  {
+    "id": 590,
+    "enWord": "computer",
+    "ukrWord": "комп'ютер",
+    "isChecked": false
+  },
+  {
+    "id": 591,
+    "enWord": "type",
+    "ukrWord": "тип",
+    "isChecked": false
+  },
+  {
+    "id": 592,
+    "enWord": "attention",
+    "ukrWord": "увага",
+    "isChecked": false
+  },
+  {
+    "id": 593,
+    "enWord": "draw",
+    "ukrWord": "малювати",
+    "isChecked": false
+  },
+  {
+    "id": 594,
+    "enWord": "film",
+    "ukrWord": "фільм",
+    "isChecked": false
+  },
+  {
+    "id": 595,
+    "enWord": "Republican",
+    "ukrWord": "республіканець",
+    "isChecked": false
+  },
+  {
+    "id": 596,
+    "enWord": "tree",
+    "ukrWord": "дерево",
+    "isChecked": false
+  },
+  {
+    "id": 597,
+    "enWord": "source",
+    "ukrWord": "джерело",
+    "isChecked": false
+  },
+  {
+    "id": 598,
+    "enWord": "red",
+    "ukrWord": "червоний",
+    "isChecked": false
+  },
+  {
+    "id": 599,
+    "enWord": "nearly",
+    "ukrWord": "приблизно",
+    "isChecked": false
+  },
+  {
+    "id": 600,
+    "enWord": "organization",
+    "ukrWord": "організація",
+    "isChecked": false
+  },
+  {
+    "id": 601,
+    "enWord": "choose",
+    "ukrWord": "вибирати",
+    "isChecked": false
+  },
+  {
+    "id": 602,
+    "enWord": "cause",
+    "ukrWord": "причина",
+    "isChecked": false
+  },
+  {
+    "id": 603,
+    "enWord": "hair",
+    "ukrWord": "волосся",
+    "isChecked": false
+  },
+  {
+    "id": 604,
+    "enWord": "look",
+    "ukrWord": "вид",
+    "isChecked": false
+  },
+  {
+    "id": 605,
+    "enWord": "point",
+    "ukrWord": "точка зору",
+    "isChecked": false
+  },
+  {
+    "id": 606,
+    "enWord": "century",
+    "ukrWord": "століття",
+    "isChecked": false
+  },
+  {
+    "id": 607,
+    "enWord": "evidence",
+    "ukrWord": "докази",
+    "isChecked": false
+  },
+  {
+    "id": 608,
+    "enWord": "window",
+    "ukrWord": "вікно",
+    "isChecked": false
+  },
+  {
+    "id": 609,
+    "enWord": "difficult",
+    "ukrWord": "складний",
+    "isChecked": false
+  },
+  {
+    "id": 610,
+    "enWord": "listen",
+    "ukrWord": "слухати",
+    "isChecked": false
+  },
+  {
+    "id": 611,
+    "enWord": "soon",
+    "ukrWord": "скоро",
+    "isChecked": false
+  },
+  {
+    "id": 612,
+    "enWord": "culture",
+    "ukrWord": "культура",
+    "isChecked": false
+  },
+  {
+    "id": 613,
+    "enWord": "billion",
+    "ukrWord": "мільярд",
+    "isChecked": false
+  },
+  {
+    "id": 614,
+    "enWord": "chance",
+    "ukrWord": "шанс",
+    "isChecked": false
+  },
+  {
+    "id": 615,
+    "enWord": "brother",
+    "ukrWord": "брат",
+    "isChecked": false
+  },
+  {
+    "id": 616,
+    "enWord": "energy",
+    "ukrWord": "енергія",
+    "isChecked": false
+  },
+  {
+    "id": 617,
+    "enWord": "period",
+    "ukrWord": "період",
+    "isChecked": false
+  },
+  {
+    "id": 618,
+    "enWord": "course",
+    "ukrWord": "страва",
+    "isChecked": false
+  },
+  {
+    "id": 619,
+    "enWord": "summer",
+    "ukrWord": "літо",
+    "isChecked": false
+  },
+  {
+    "id": 620,
+    "enWord": "less",
+    "ukrWord": "менший",
+    "isChecked": false
+  },
+  {
+    "id": 621,
+    "enWord": "realize",
+    "ukrWord": "реалізовувати",
+    "isChecked": false
+  },
+  {
+    "id": 622,
+    "enWord": "hundred",
+    "ukrWord": "сто",
+    "isChecked": false
+  },
+  {
+    "id": 623,
+    "enWord": "available",
+    "ukrWord": "доступний",
+    "isChecked": false
+  },
+  {
+    "id": 624,
+    "enWord": "plant",
+    "ukrWord": "рослина",
+    "isChecked": false
+  },
+  {
+    "id": 625,
+    "enWord": "likely",
+    "ukrWord": "ймовірно",
+    "isChecked": false
+  },
+  {
+    "id": 626,
+    "enWord": "opportunity",
+    "ukrWord": "можливість",
+    "isChecked": false
+  },
+  {
+    "id": 627,
+    "enWord": "term",
+    "ukrWord": "термін",
+    "isChecked": false
+  },
+  {
+    "id": 628,
+    "enWord": "short",
+    "ukrWord": "короткий",
+    "isChecked": false
+  },
+  {
+    "id": 629,
+    "enWord": "letter",
+    "ukrWord": "лист",
+    "isChecked": false
+  },
+  {
+    "id": 630,
+    "enWord": "condition",
+    "ukrWord": "стан",
+    "isChecked": false
+  },
+  {
+    "id": 631,
+    "enWord": "choice",
+    "ukrWord": "вибір",
+    "isChecked": false
+  },
+  {
+    "id": 632,
+    "enWord": "place",
+    "ukrWord": "місце",
+    "isChecked": false
+  },
+  {
+    "id": 633,
+    "enWord": "single",
+    "ukrWord": "один/самотній",
+    "isChecked": false
+  },
+  {
+    "id": 634,
+    "enWord": "rule",
+    "ukrWord": "правило",
+    "isChecked": false
+  },
+  {
+    "id": 635,
+    "enWord": "daughter",
+    "ukrWord": "дочка",
+    "isChecked": false
+  },
+  {
+    "id": 636,
+    "enWord": "administration",
+    "ukrWord": "адміністрація",
+    "isChecked": false
+  },
+  {
+    "id": 637,
+    "enWord": "south",
+    "ukrWord": "південь",
+    "isChecked": false
+  },
+  {
+    "id": 638,
+    "enWord": "husband",
+    "ukrWord": "чоловік",
+    "isChecked": false
+  },
+  {
+    "id": 639,
+    "enWord": "Congress",
+    "ukrWord": "конгрес",
+    "isChecked": false
+  },
+  {
+    "id": 640,
+    "enWord": "floor",
+    "ukrWord": "підлога/поверх",
+    "isChecked": false
+  },
+  {
+    "id": 641,
+    "enWord": "campaign",
+    "ukrWord": "кампанія",
+    "isChecked": false
+  },
+  {
+    "id": 642,
+    "enWord": "material",
+    "ukrWord": "матеріал",
+    "isChecked": false
+  },
+  {
+    "id": 643,
+    "enWord": "population",
+    "ukrWord": "населення",
+    "isChecked": false
+  },
+  {
+    "id": 644,
+    "enWord": "well",
+    "ukrWord": "добре",
+    "isChecked": false
+  },
+  {
+    "id": 645,
+    "enWord": "call",
+    "ukrWord": "дзвінок",
+    "isChecked": false
+  },
+  {
+    "id": 646,
+    "enWord": "economy",
+    "ukrWord": "економіка",
+    "isChecked": false
+  },
+  {
+    "id": 647,
+    "enWord": "medical",
+    "ukrWord": "медичний",
+    "isChecked": false
+  },
+  {
+    "id": 648,
+    "enWord": "hospital",
+    "ukrWord": "лікарня",
+    "isChecked": false
+  },
+  {
+    "id": 649,
+    "enWord": "church",
+    "ukrWord": "церква",
+    "isChecked": false
+  },
+  {
+    "id": 650,
+    "enWord": "close",
+    "ukrWord": "закривати",
+    "isChecked": false
+  },
+  {
+    "id": 651,
+    "enWord": "thousand",
+    "ukrWord": "тисяча",
+    "isChecked": false
+  },
+  {
+    "id": 652,
+    "enWord": "risk",
+    "ukrWord": "ризик",
+    "isChecked": false
+  },
+  {
+    "id": 653,
+    "enWord": "current",
+    "ukrWord": "поточний",
+    "isChecked": false
+  },
+  {
+    "id": 654,
+    "enWord": "fire",
+    "ukrWord": "вогонь",
+    "isChecked": false
+  },
+  {
+    "id": 655,
+    "enWord": "future",
+    "ukrWord": "майбутнє",
+    "isChecked": false
+  },
+  {
+    "id": 656,
+    "enWord": "wrong",
+    "ukrWord": "неправильний",
+    "isChecked": false
+  },
+  {
+    "id": 657,
+    "enWord": "involve",
+    "ukrWord": "включати",
+    "isChecked": false
+  },
+  {
+    "id": 658,
+    "enWord": "defense",
+    "ukrWord": "захист",
+    "isChecked": false
+  },
+  {
+    "id": 659,
+    "enWord": "anyone",
+    "ukrWord": "хто-небудь",
+    "isChecked": false
+  },
+  {
+    "id": 660,
+    "enWord": "increase",
+    "ukrWord": "збільшувати",
+    "isChecked": false
+  },
+  {
+    "id": 661,
+    "enWord": "security",
+    "ukrWord": "безпека",
+    "isChecked": false
+  },
+  {
+    "id": 662,
+    "enWord": "bank",
+    "ukrWord": "банк",
+    "isChecked": false
+  },
+  {
+    "id": 663,
+    "enWord": "myself",
+    "ukrWord": "сам",
+    "isChecked": false
+  },
+  {
+    "id": 664,
+    "enWord": "certainly",
+    "ukrWord": "безперечно",
+    "isChecked": false
+  },
+  {
+    "id": 665,
+    "enWord": "west",
+    "ukrWord": "захід",
+    "isChecked": false
+  },
+  {
+    "id": 666,
+    "enWord": "sport",
+    "ukrWord": "спорт",
+    "isChecked": false
+  },
+  {
+    "id": 667,
+    "enWord": "board",
+    "ukrWord": "борт",
+    "isChecked": false
+  },
+  {
+    "id": 668,
+    "enWord": "seek",
+    "ukrWord": "шукати",
+    "isChecked": false
+  },
+  {
+    "id": 669,
+    "enWord": "per",
+    "ukrWord": "за",
+    "isChecked": false
+  },
+  {
+    "id": 670,
+    "enWord": "subject",
+    "ukrWord": "предмет",
+    "isChecked": false
+  },
+  {
+    "id": 671,
+    "enWord": "officer",
+    "ukrWord": "офіцер",
+    "isChecked": false
+  },
+  {
+    "id": 672,
+    "enWord": "private",
+    "ukrWord": "приватний",
+    "isChecked": false
+  },
+  {
+    "id": 673,
+    "enWord": "rest",
+    "ukrWord": "відпочинок",
+    "isChecked": false
+  },
+  {
+    "id": 674,
+    "enWord": "behaviour",
+    "ukrWord": "поведінка",
+    "isChecked": false
+  },
+  {
+    "id": 675,
+    "enWord": "deal",
+    "ukrWord": "угода",
+    "isChecked": false
+  },
+  {
+    "id": 676,
+    "enWord": "performance",
+    "ukrWord": "виконання",
+    "isChecked": false
+  },
+  {
+    "id": 677,
+    "enWord": "fight",
+    "ukrWord": "битися",
+    "isChecked": false
+  },
+  {
+    "id": 678,
+    "enWord": "throw",
+    "ukrWord": "через",
+    "isChecked": false
+  },
+  {
+    "id": 679,
+    "enWord": "top",
+    "ukrWord": "верх",
+    "isChecked": false
+  },
+  {
+    "id": 680,
+    "enWord": "quickly",
+    "ukrWord": "швидко",
+    "isChecked": false
+  },
+  {
+    "id": 681,
+    "enWord": "past",
+    "ukrWord": "минуле",
+    "isChecked": false
+  },
+  {
+    "id": 682,
+    "enWord": "goal",
+    "ukrWord": "мета",
+    "isChecked": false
+  },
+  {
+    "id": 683,
+    "enWord": "second",
+    "ukrWord": "другий",
+    "isChecked": false
+  },
+  {
+    "id": 684,
+    "enWord": "bed",
+    "ukrWord": "ліжко",
+    "isChecked": false
+  },
+  {
+    "id": 685,
+    "enWord": "order",
+    "ukrWord": "наказ",
+    "isChecked": false
+  },
+  {
+    "id": 686,
+    "enWord": "author",
+    "ukrWord": "автор",
+    "isChecked": false
+  },
+  {
+    "id": 687,
+    "enWord": "fill",
+    "ukrWord": "заповнювати",
+    "isChecked": false
+  },
+  {
+    "id": 688,
+    "enWord": "represent",
+    "ukrWord": "представляти",
+    "isChecked": false
+  },
+  {
+    "id": 689,
+    "enWord": "focus",
+    "ukrWord": "фокус",
+    "isChecked": false
+  },
+  {
+    "id": 690,
+    "enWord": "foreign",
+    "ukrWord": "іноземний",
+    "isChecked": false
+  },
+  {
+    "id": 691,
+    "enWord": "drop",
+    "ukrWord": "падати",
+    "isChecked": false
+  },
+  {
+    "id": 692,
+    "enWord": "plan",
+    "ukrWord": "план",
+    "isChecked": false
+  },
+  {
+    "id": 693,
+    "enWord": "blood",
+    "ukrWord": "кров",
+    "isChecked": false
+  },
+  {
+    "id": 694,
+    "enWord": "upon",
+    "ukrWord": "на/по",
+    "isChecked": false
+  },
+  {
+    "id": 695,
+    "enWord": "agency",
+    "ukrWord": "агентство",
+    "isChecked": false
+  },
+  {
+    "id": 696,
+    "enWord": "push",
+    "ukrWord": "штовхати",
+    "isChecked": false
+  },
+  {
+    "id": 697,
+    "enWord": "nature",
+    "ukrWord": "природа",
+    "isChecked": false
+  },
+  {
+    "id": 698,
+    "enWord": "color",
+    "ukrWord": "колір",
+    "isChecked": false
+  },
+  {
+    "id": 699,
+    "enWord": "no",
+    "ukrWord": "нікого",
+    "isChecked": false
+  },
+  {
+    "id": 700,
+    "enWord": "recently",
+    "ukrWord": "нещодавно",
+    "isChecked": false
+  },
+  {
+    "id": 701,
+    "enWord": "store",
+    "ukrWord": "магазин",
+    "isChecked": false
+  },
+  {
+    "id": 702,
+    "enWord": "reduce",
+    "ukrWord": "знижувати",
+    "isChecked": false
+  },
+  {
+    "id": 703,
+    "enWord": "sound",
+    "ukrWord": "звук",
+    "isChecked": false
+  },
+  {
+    "id": 704,
+    "enWord": "note",
+    "ukrWord": "позначка",
+    "isChecked": false
+  },
+  {
+    "id": 705,
+    "enWord": "fine",
+    "ukrWord": "відмінно",
+    "isChecked": false
+  },
+  {
+    "id": 706,
+    "enWord": "before",
+    "ukrWord": "перш ніж",
+    "isChecked": false
+  },
+  {
+    "id": 707,
+    "enWord": "near",
+    "ukrWord": "близько",
+    "isChecked": false
+  },
+  {
+    "id": 708,
+    "enWord": "movement",
+    "ukrWord": "рух",
+    "isChecked": false
+  },
+  {
+    "id": 709,
+    "enWord": "page",
+    "ukrWord": "сторінка",
+    "isChecked": false
+  },
+  {
+    "id": 710,
+    "enWord": "enter",
+    "ukrWord": "входити",
+    "isChecked": false
+  },
+  {
+    "id": 711,
+    "enWord": "share",
+    "ukrWord": "ділитися",
+    "isChecked": false
+  },
+  {
+    "id": 712,
+    "enWord": "than",
+    "ukrWord": "як",
+    "isChecked": false
+  },
+  {
+    "id": 713,
+    "enWord": "common",
+    "ukrWord": "загальний",
+    "isChecked": false
+  },
+  {
+    "id": 714,
+    "enWord": "poor",
+    "ukrWord": "бідний",
+    "isChecked": false
+  },
+  {
+    "id": 715,
+    "enWord": "other",
+    "ukrWord": "інший",
+    "isChecked": false
+  },
+  {
+    "id": 716,
+    "enWord": "natural",
+    "ukrWord": "природний",
+    "isChecked": false
+  },
+  {
+    "id": 717,
+    "enWord": "race",
+    "ukrWord": "гонка",
+    "isChecked": false
+  },
+  {
+    "id": 718,
+    "enWord": "concern",
+    "ukrWord": "занепокоєння",
+    "isChecked": false
+  },
+  {
+    "id": 719,
+    "enWord": "series",
+    "ukrWord": "серія",
+    "isChecked": false
+  },
+  {
+    "id": 720,
+    "enWord": "significant",
+    "ukrWord": "значний",
+    "isChecked": false
+  },
+  {
+    "id": 721,
+    "enWord": "similar",
+    "ukrWord": "схожий",
+    "isChecked": false
+  },
+  {
+    "id": 722,
+    "enWord": "hot",
+    "ukrWord": "гарячий",
+    "isChecked": false
+  },
+  {
+    "id": 723,
+    "enWord": "language",
+    "ukrWord": "мова",
+    "isChecked": false
+  },
+  {
+    "id": 724,
+    "enWord": "each",
+    "ukrWord": "кожен",
+    "isChecked": false
+  },
+  {
+    "id": 725,
+    "enWord": "usually",
+    "ukrWord": "зазвичай",
+    "isChecked": false
+  },
+  {
+    "id": 726,
+    "enWord": "response",
+    "ukrWord": "відповідь",
+    "isChecked": false
+  },
+  {
+    "id": 727,
+    "enWord": "dead",
+    "ukrWord": "мертвий",
+    "isChecked": false
+  },
+  {
+    "id": 728,
+    "enWord": "rise",
+    "ukrWord": "зростати",
+    "isChecked": false
+  },
+  {
+    "id": 729,
+    "enWord": "animal",
+    "ukrWord": "тварина",
+    "isChecked": false
+  },
+  {
+    "id": 730,
+    "enWord": "factor",
+    "ukrWord": "фактор",
+    "isChecked": false
+  },
+  {
+    "id": 731,
+    "enWord": "decade",
+    "ukrWord": "десятиліття",
+    "isChecked": false
+  },
+  {
+    "id": 732,
+    "enWord": "article",
+    "ukrWord": "стаття",
+    "isChecked": false
+  },
+  {
+    "id": 733,
+    "enWord": "shoot",
+    "ukrWord": "стріляти",
+    "isChecked": false
+  },
+  {
+    "id": 734,
+    "enWord": "east",
+    "ukrWord": "схід",
+    "isChecked": false
+  },
+  {
+    "id": 735,
+    "enWord": "save",
+    "ukrWord": "зберігати",
+    "isChecked": false
+  },
+  {
+    "id": 736,
+    "enWord": "seven",
+    "ukrWord": "сім",
+    "isChecked": false
+  },
+  {
+    "id": 737,
+    "enWord": "artist",
+    "ukrWord": "художник",
+    "isChecked": false
+  },
+  {
+    "id": 738,
+    "enWord": "away",
+    "ukrWord": "геть",
+    "isChecked": false
+  },
+  {
+    "id": 739,
+    "enWord": "scene",
+    "ukrWord": "сцена",
+    "isChecked": false
+  },
+  {
+    "id": 740,
+    "enWord": "stock",
+    "ukrWord": "запас",
+    "isChecked": false
+  },
+  {
+    "id": 741,
+    "enWord": "career",
+    "ukrWord": "кар'єра",
+    "isChecked": false
+  },
+  {
+    "id": 742,
+    "enWord": "despite",
+    "ukrWord": "незважаючи на",
+    "isChecked": false
+  },
+  {
+    "id": 743,
+    "enWord": "central",
+    "ukrWord": "центральний",
+    "isChecked": false
+  },
+  {
+    "id": 744,
+    "enWord": "eight",
+    "ukrWord": "вісім",
+    "isChecked": false
+  },
+  {
+    "id": 745,
+    "enWord": "thus",
+    "ukrWord": "таким чином",
+    "isChecked": false
+  },
+  {
+    "id": 746,
+    "enWord": "treatment",
+    "ukrWord": "лікування",
+    "isChecked": false
+  },
+  {
+    "id": 747,
+    "enWord": "beyond",
+    "ukrWord": "за, поза",
+    "isChecked": false
+  },
+  {
+    "id": 748,
+    "enWord": "happy",
+    "ukrWord": "щасливий",
+    "isChecked": false
+  },
+  {
+    "id": 749,
+    "enWord": "exactly",
+    "ukrWord": "точно",
+    "isChecked": false
+  },
+  {
+    "id": 750,
+    "enWord": "protect",
+    "ukrWord": "захищати",
+    "isChecked": false
+  },
+  {
+    "id": 751,
+    "enWord": "approach",
+    "ukrWord": "наближення",
+    "isChecked": false
+  },
+  {
+    "id": 752,
+    "enWord": "lie",
+    "ukrWord": "брехати",
+    "isChecked": false
+  },
+  {
+    "id": 753,
+    "enWord": "size",
+    "ukrWord": "розмір",
+    "isChecked": false
+  },
+  {
+    "id": 754,
+    "enWord": "dog",
+    "ukrWord": "собака",
+    "isChecked": false
+  },
+  {
+    "id": 755,
+    "enWord": "fund",
+    "ukrWord": "фонд",
+    "isChecked": false
+  },
+  {
+    "id": 756,
+    "enWord": "serious",
+    "ukrWord": "серйозний",
+    "isChecked": false
+  },
+  {
+    "id": 757,
+    "enWord": "occur",
+    "ukrWord": "відбуватися",
+    "isChecked": false
+  },
+  {
+    "id": 758,
+    "enWord": "media",
+    "ukrWord": "медіа",
+    "isChecked": false
+  },
+  {
+    "id": 759,
+    "enWord": "ready",
+    "ukrWord": "готовий",
+    "isChecked": false
+  },
+  {
+    "id": 760,
+    "enWord": "sign",
+    "ukrWord": "знак/підпис",
+    "isChecked": false
+  },
+  {
+    "id": 761,
+    "enWord": "thought",
+    "ukrWord": "намір",
+    "isChecked": false
+  },
+  {
+    "id": 762,
+    "enWord": "list",
+    "ukrWord": "перелік",
+    "isChecked": false
+  },
+  {
+    "id": 763,
+    "enWord": "individual",
+    "ukrWord": "індивідуальний",
+    "isChecked": false
+  },
+  {
+    "id": 764,
+    "enWord": "simple",
+    "ukrWord": "простий",
+    "isChecked": false
+  },
+  {
+    "id": 765,
+    "enWord": "quality",
+    "ukrWord": "якість",
+    "isChecked": false
+  },
+  {
+    "id": 766,
+    "enWord": "pressure",
+    "ukrWord": "тиск",
+    "isChecked": false
+  },
+  {
+    "id": 767,
+    "enWord": "accept",
+    "ukrWord": "приймати",
+    "isChecked": false
+  },
+  {
+    "id": 768,
+    "enWord": "answer",
+    "ukrWord": "відповідь",
+    "isChecked": false
+  },
+  {
+    "id": 769,
+    "enWord": "hard",
+    "ukrWord": "складний",
+    "isChecked": false
+  },
+  {
+    "id": 770,
+    "enWord": "resource",
+    "ukrWord": "ресурс",
+    "isChecked": false
+  },
+  {
+    "id": 771,
+    "enWord": "identify",
+    "ukrWord": "ідентифікувати",
+    "isChecked": false
+  },
+  {
+    "id": 772,
+    "enWord": "left",
+    "ukrWord": "залишати",
+    "isChecked": false
+  },
+  {
+    "id": 773,
+    "enWord": "meeting",
+    "ukrWord": "зустріч",
+    "isChecked": false
+  },
+  {
+    "id": 774,
+    "enWord": "determine",
+    "ukrWord": "визначати",
+    "isChecked": false
+  },
+  {
+    "id": 775,
+    "enWord": "prepare",
+    "ukrWord": "готувати",
+    "isChecked": false
+  },
+  {
+    "id": 776,
+    "enWord": "desease",
+    "ukrWord": "хвороба",
+    "isChecked": false
+  },
+  {
+    "id": 777,
+    "enWord": "whatever",
+    "ukrWord": "що-небудь",
+    "isChecked": false
+  },
+  {
+    "id": 778,
+    "enWord": "success",
+    "ukrWord": "успіх",
+    "isChecked": false
+  },
+  {
+    "id": 779,
+    "enWord": "argue",
+    "ukrWord": "суперечка",
+    "isChecked": false
+  },
+  {
+    "id": 780,
+    "enWord": "cup",
+    "ukrWord": "чашка",
+    "isChecked": false
+  },
+  {
+    "id": 781,
+    "enWord": "particularly",
+    "ukrWord": "особливо",
+    "isChecked": false
+  },
+  {
+    "id": 782,
+    "enWord": "amount",
+    "ukrWord": "сума",
+    "isChecked": false
+  },
+  {
+    "id": 783,
+    "enWord": "ability",
+    "ukrWord": "можливість",
+    "isChecked": false
+  },
+  {
+    "id": 784,
+    "enWord": "staff",
+    "ukrWord": "персонал",
+    "isChecked": false
+  },
+  {
+    "id": 785,
+    "enWord": "recognize",
+    "ukrWord": "дізнаватися",
+    "isChecked": false
+  },
+  {
+    "id": 786,
+    "enWord": "indicate",
+    "ukrWord": "вказувати на",
+    "isChecked": false
+  },
+  {
+    "id": 787,
+    "enWord": "character",
+    "ukrWord": "персонаж",
+    "isChecked": false
+  },
+  {
+    "id": 788,
+    "enWord": "growth",
+    "ukrWord": "зріст",
+    "isChecked": false
+  },
+  {
+    "id": 789,
+    "enWord": "loss",
+    "ukrWord": "збиток",
+    "isChecked": false
+  },
+  {
+    "id": 790,
+    "enWord": "degree",
+    "ukrWord": "ступінь",
+    "isChecked": false
+  },
+  {
+    "id": 791,
+    "enWord": "wonder",
+    "ukrWord": "дивуватися",
+    "isChecked": false
+  },
+  {
+    "id": 792,
+    "enWord": "attack",
+    "ukrWord": "атака",
+    "isChecked": false
+  },
+  {
+    "id": 793,
+    "enWord": "herself",
+    "ukrWord": "сама",
+    "isChecked": false
+  },
+  {
+    "id": 794,
+    "enWord": "region",
+    "ukrWord": "регіон",
+    "isChecked": false
+  },
+  {
+    "id": 795,
+    "enWord": "television",
+    "ukrWord": "телебачення",
+    "isChecked": false
+  },
+  {
+    "id": 796,
+    "enWord": "box",
+    "ukrWord": "коробка",
+    "isChecked": false
+  },
+  {
+    "id": 797,
+    "enWord": "TV",
+    "ukrWord": "ТБ",
+    "isChecked": false
+  },
+  {
+    "id": 798,
+    "enWord": "training",
+    "ukrWord": "тренування",
+    "isChecked": false
+  },
+  {
+    "id": 799,
+    "enWord": "pretty",
+    "ukrWord": "гарний",
+    "isChecked": false
+  },
+  {
+    "id": 800,
+    "enWord": "trade",
+    "ukrWord": "торговий",
+    "isChecked": false
+  },
+  {
+    "id": 801,
+    "enWord": "deal",
+    "ukrWord": "справа",
+    "isChecked": false
+  },
+  {
+    "id": 802,
+    "enWord": "election",
+    "ukrWord": "вибори",
+    "isChecked": false
+  },
+  {
+    "id": 803,
+    "enWord": "everybody",
+    "ukrWord": "кожен",
+    "isChecked": false
+  },
+  {
+    "id": 804,
+    "enWord": "physical",
+    "ukrWord": "фізичний",
+    "isChecked": false
+  },
+  {
+    "id": 805,
+    "enWord": "lay",
+    "ukrWord": "лежати",
+    "isChecked": false
+  },
+  {
+    "id": 806,
+    "enWord": "general",
+    "ukrWord": "загальний",
+    "isChecked": false
+  },
+  {
+    "id": 807,
+    "enWord": "feeling",
+    "ukrWord": "почуття",
+    "isChecked": false
+  },
+  {
+    "id": 808,
+    "enWord": "standart",
+    "ukrWord": "стандарт",
+    "isChecked": false
+  },
+  {
+    "id": 809,
+    "enWord": "bill",
+    "ukrWord": "рахунок",
+    "isChecked": false
+  },
+  {
+    "id": 810,
+    "enWord": "message",
+    "ukrWord": "повідомлення",
+    "isChecked": false
+  },
+  {
+    "id": 811,
+    "enWord": "fail",
+    "ukrWord": "невдача",
+    "isChecked": false
+  },
+  {
+    "id": 812,
+    "enWord": "outside",
+    "ukrWord": "зовні",
+    "isChecked": false
+  },
+  {
+    "id": 813,
+    "enWord": "arrive",
+    "ukrWord": "прибувати",
+    "isChecked": false
+  },
+  {
+    "id": 814,
+    "enWord": "analysis",
+    "ukrWord": "аналіз",
+    "isChecked": false
+  },
+  {
+    "id": 815,
+    "enWord": "benefit",
+    "ukrWord": "вигода",
+    "isChecked": false
+  },
+  {
+    "id": 816,
+    "enWord": "name",
+    "ukrWord": "ім'я",
+    "isChecked": false
+  },
+  {
+    "id": 817,
+    "enWord": "sex",
+    "ukrWord": "секс",
+    "isChecked": false
+  },
+  {
+    "id": 818,
+    "enWord": "forward",
+    "ukrWord": "безпосередньо",
+    "isChecked": false
+  },
+  {
+    "id": 819,
+    "enWord": "lawyer",
+    "ukrWord": "юрист",
+    "isChecked": false
+  },
+  {
+    "id": 820,
+    "enWord": "present",
+    "ukrWord": "дарувати",
+    "isChecked": false
+  },
+  {
+    "id": 821,
+    "enWord": "section",
+    "ukrWord": "розділ",
+    "isChecked": false
+  },
+  {
+    "id": 822,
+    "enWord": "environmental",
+    "ukrWord": "екологічний",
+    "isChecked": false
+  },
+  {
+    "id": 823,
+    "enWord": "glass",
+    "ukrWord": "склянка",
+    "isChecked": false
+  },
+  {
+    "id": 824,
+    "enWord": "answer",
+    "ukrWord": "відповідь",
+    "isChecked": false
+  },
+  {
+    "id": 825,
+    "enWord": "skill",
+    "ukrWord": "навик",
+    "isChecked": false
+  },
+  {
+    "id": 826,
+    "enWord": "sister",
+    "ukrWord": "сестра",
+    "isChecked": false
+  },
+  {
+    "id": 827,
+    "enWord": "PM",
+    "ukrWord": "пообіді",
+    "isChecked": false
+  },
+  {
+    "id": 828,
+    "enWord": "professor",
+    "ukrWord": "професор",
+    "isChecked": false
+  },
+  {
+    "id": 829,
+    "enWord": "operation",
+    "ukrWord": "операція",
+    "isChecked": false
+  },
+  {
+    "id": 830,
+    "enWord": "financial",
+    "ukrWord": "фінансовий",
+    "isChecked": false
+  },
+  {
+    "id": 831,
+    "enWord": "crime",
+    "ukrWord": "злочин",
+    "isChecked": false
+  },
+  {
+    "id": 832,
+    "enWord": "stage",
+    "ukrWord": "етап",
+    "isChecked": false
+  },
+  {
+    "id": 833,
+    "enWord": "ok",
+    "ukrWord": "ок",
+    "isChecked": false
+  },
+  {
+    "id": 834,
+    "enWord": "compare",
+    "ukrWord": "порівнювати",
+    "isChecked": false
+  },
+  {
+    "id": 835,
+    "enWord": "authority",
+    "ukrWord": "авторитет",
+    "isChecked": false
+  },
+  {
+    "id": 836,
+    "enWord": "miss",
+    "ukrWord": "нудьгувати",
+    "isChecked": false
+  },
+  {
+    "id": 837,
+    "enWord": "design",
+    "ukrWord": "дизайн",
+    "isChecked": false
+  },
+  {
+    "id": 838,
+    "enWord": "sort",
+    "ukrWord": "вид",
+    "isChecked": false
+  },
+  {
+    "id": 839,
+    "enWord": "one",
+    "ukrWord": "єдиний",
+    "isChecked": false
+  },
+  {
+    "id": 840,
+    "enWord": "act",
+    "ukrWord": "діяти",
+    "isChecked": false
+  },
+  {
+    "id": 841,
+    "enWord": "ten",
+    "ukrWord": "десять",
+    "isChecked": false
+  },
+  {
+    "id": 842,
+    "enWord": "knowledge",
+    "ukrWord": "знання",
+    "isChecked": false
+  },
+  {
+    "id": 843,
+    "enWord": "gun",
+    "ukrWord": "пістолет",
+    "isChecked": false
+  },
+  {
+    "id": 844,
+    "enWord": "station",
+    "ukrWord": "станція",
+    "isChecked": false
+  },
+  {
+    "id": 845,
+    "enWord": "blue",
+    "ukrWord": "блакитний",
+    "isChecked": false
+  },
+  {
+    "id": 846,
+    "enWord": "state",
+    "ukrWord": "держава",
+    "isChecked": false
+  },
+  {
+    "id": 847,
+    "enWord": "strategy",
+    "ukrWord": "стратегія",
+    "isChecked": false
+  },
+  {
+    "id": 848,
+    "enWord": "little",
+    "ukrWord": "мало",
+    "isChecked": false
+  },
+  {
+    "id": 849,
+    "enWord": "clearly",
+    "ukrWord": "ясно",
+    "isChecked": false
+  },
+  {
+    "id": 850,
+    "enWord": "discuss",
+    "ukrWord": "обговорювати",
+    "isChecked": false
+  },
+  {
+    "id": 851,
+    "enWord": "indeed",
+    "ukrWord": "дійсно",
+    "isChecked": false
+  },
+  {
+    "id": 852,
+    "enWord": "force",
+    "ukrWord": "примушувати",
+    "isChecked": false
+  },
+  {
+    "id": 853,
+    "enWord": "truth",
+    "ukrWord": "правда",
+    "isChecked": false
+  },
+  {
+    "id": 854,
+    "enWord": "song",
+    "ukrWord": "пісня",
+    "isChecked": false
+  },
+  {
+    "id": 855,
+    "enWord": "example",
+    "ukrWord": "приклад",
+    "isChecked": false
+  },
+  {
+    "id": 856,
+    "enWord": "democratic",
+    "ukrWord": "демократичний",
+    "isChecked": false
+  },
+  {
+    "id": 857,
+    "enWord": "check",
+    "ukrWord": "перевіряти",
+    "isChecked": false
+  },
+  {
+    "id": 858,
+    "enWord": "environment",
+    "ukrWord": "довкілля",
+    "isChecked": false
+  },
+  {
+    "id": 859,
+    "enWord": "leg",
+    "ukrWord": "нога",
+    "isChecked": false
+  },
+  {
+    "id": 860,
+    "enWord": "dark",
+    "ukrWord": "темний",
+    "isChecked": false
+  },
+  {
+    "id": 861,
+    "enWord": "public",
+    "ukrWord": "громадськість",
+    "isChecked": false
+  },
+  {
+    "id": 862,
+    "enWord": "various",
+    "ukrWord": "різний",
+    "isChecked": false
+  },
+  {
+    "id": 863,
+    "enWord": "rather",
+    "ukrWord": "швидше",
+    "isChecked": false
+  },
+  {
+    "id": 864,
+    "enWord": "laugh",
+    "ukrWord": "сміятися",
+    "isChecked": false
+  },
+  {
+    "id": 865,
+    "enWord": "guess",
+    "ukrWord": "здогадуватися",
+    "isChecked": false
+  },
+  {
+    "id": 866,
+    "enWord": "executive",
+    "ukrWord": "посадова особа",
+    "isChecked": false
+  },
+  {
+    "id": 867,
+    "enWord": "set",
+    "ukrWord": "набір",
+    "isChecked": false
+  },
+  {
+    "id": 868,
+    "enWord": "study",
+    "ukrWord": "вчення",
+    "isChecked": false
+  },
+  {
+    "id": 869,
+    "enWord": "prove",
+    "ukrWord": "доводити",
+    "isChecked": false
+  },
+  {
+    "id": 870,
+    "enWord": "hang",
+    "ukrWord": "вішати",
+    "isChecked": false
+  },
+  {
+    "id": 871,
+    "enWord": "entire",
+    "ukrWord": "цілий",
+    "isChecked": false
+  },
+  {
+    "id": 872,
+    "enWord": "rock",
+    "ukrWord": "рок",
+    "isChecked": false
+  },
+  {
+    "id": 873,
+    "enWord": "design",
+    "ukrWord": "дизайн",
+    "isChecked": false
+  },
+  {
+    "id": 874,
+    "enWord": "enough",
+    "ukrWord": "досить",
+    "isChecked": false
+  },
+  {
+    "id": 875,
+    "enWord": "forget",
+    "ukrWord": "забувати",
+    "isChecked": false
+  },
+  {
+    "id": 876,
+    "enWord": "since",
+    "ukrWord": "відтоді",
+    "isChecked": false
+  },
+  {
+    "id": 877,
+    "enWord": "claim",
+    "ukrWord": "вимагати",
+    "isChecked": false
+  },
+  {
+    "id": 878,
+    "enWord": "note",
+    "ukrWord": "нота",
+    "isChecked": false
+  },
+  {
+    "id": 879,
+    "enWord": "remove",
+    "ukrWord": "видаляти",
+    "isChecked": false
+  },
+  {
+    "id": 880,
+    "enWord": "manager",
+    "ukrWord": "менеджер",
+    "isChecked": false
+  },
+  {
+    "id": 881,
+    "enWord": "help",
+    "ukrWord": "допомога",
+    "isChecked": false
+  },
+  {
+    "id": 882,
+    "enWord": "close",
+    "ukrWord": "близький",
+    "isChecked": false
+  },
+  {
+    "id": 883,
+    "enWord": "sound",
+    "ukrWord": "звучати",
+    "isChecked": false
+  },
+  {
+    "id": 884,
+    "enWord": "enjoy",
+    "ukrWord": "насолоджуватися",
+    "isChecked": false
+  },
+  {
+    "id": 885,
+    "enWord": "network",
+    "ukrWord": "мережа",
+    "isChecked": false
+  },
+  {
+    "id": 886,
+    "enWord": "legal",
+    "ukrWord": "законний",
+    "isChecked": false
+  },
+  {
+    "id": 887,
+    "enWord": "religious",
+    "ukrWord": "релігійний",
+    "isChecked": false
+  },
+  {
+    "id": 888,
+    "enWord": "cold",
+    "ukrWord": "холодний",
+    "isChecked": false
+  },
+  {
+    "id": 889,
+    "enWord": "form",
+    "ukrWord": "формувати",
+    "isChecked": false
+  },
+  {
+    "id": 890,
+    "enWord": "final",
+    "ukrWord": "фінал",
+    "isChecked": false
+  },
+  {
+    "id": 891,
+    "enWord": "main",
+    "ukrWord": "головний",
+    "isChecked": false
+  },
+  {
+    "id": 892,
+    "enWord": "sience",
+    "ukrWord": "наука",
+    "isChecked": false
+  },
+  {
+    "id": 893,
+    "enWord": "green",
+    "ukrWord": "зелений",
+    "isChecked": false
+  },
+  {
+    "id": 894,
+    "enWord": "memory",
+    "ukrWord": "пам'ять",
+    "isChecked": false
+  },
+  {
+    "id": 895,
+    "enWord": "card",
+    "ukrWord": "карта",
+    "isChecked": false
+  },
+  {
+    "id": 896,
+    "enWord": "above",
+    "ukrWord": "понад",
+    "isChecked": false
+  },
+  {
+    "id": 897,
+    "enWord": "seat",
+    "ukrWord": "сидіння",
+    "isChecked": false
+  },
+  {
+    "id": 898,
+    "enWord": "cell",
+    "ukrWord": "клітинка",
+    "isChecked": false
+  },
+  {
+    "id": 899,
+    "enWord": "establish",
+    "ukrWord": "встановити",
+    "isChecked": false
+  },
+  {
+    "id": 900,
+    "enWord": "nice",
+    "ukrWord": "відмінно",
+    "isChecked": false
+  },
+  {
+    "id": 901,
+    "enWord": "trail",
+    "ukrWord": "слід",
+    "isChecked": false
+  },
+  {
+    "id": 902,
+    "enWord": "expert",
+    "ukrWord": "експерт",
+    "isChecked": false
+  },
+  {
+    "id": 903,
+    "enWord": "spring",
+    "ukrWord": "весна",
+    "isChecked": false
+  },
+  {
+    "id": 904,
+    "enWord": "firm",
+    "ukrWord": "фірма",
+    "isChecked": false
+  },
+  {
+    "id": 905,
+    "enWord": "Democrat",
+    "ukrWord": "демократ",
+    "isChecked": false
+  },
+  {
+    "id": 906,
+    "enWord": "radio",
+    "ukrWord": "радіо",
+    "isChecked": false
+  },
+  {
+    "id": 907,
+    "enWord": "visit",
+    "ukrWord": "відвідувати",
+    "isChecked": false
+  },
+  {
+    "id": 908,
+    "enWord": "manage",
+    "ukrWord": "керувати",
+    "isChecked": false
+  },
+  {
+    "id": 909,
+    "enWord": "care",
+    "ukrWord": "піклуватися",
+    "isChecked": false
+  },
+  {
+    "id": 910,
+    "enWord": "avoid",
+    "ukrWord": "уникати",
+    "isChecked": false
+  },
+  {
+    "id": 911,
+    "enWord": "imagine",
+    "ukrWord": "уявляти",
+    "isChecked": false
+  },
+  {
+    "id": 912,
+    "enWord": "tonight",
+    "ukrWord": "цієї ночі",
+    "isChecked": false
+  },
+  {
+    "id": 913,
+    "enWord": "huge",
+    "ukrWord": "величезний",
+    "isChecked": false
+  },
+  {
+    "id": 914,
+    "enWord": "ball",
+    "ukrWord": "м'яч",
+    "isChecked": false
+  },
+  {
+    "id": 915,
+    "enWord": "close",
+    "ukrWord": "закривати",
+    "isChecked": false
+  },
+  {
+    "id": 916,
+    "enWord": "finish",
+    "ukrWord": "закінчувати",
+    "isChecked": false
+  },
+  {
+    "id": 917,
+    "enWord": "yourself",
+    "ukrWord": "тебе самого",
+    "isChecked": false
+  },
+  {
+    "id": 918,
+    "enWord": "talk",
+    "ukrWord": "балаканина",
+    "isChecked": false
+  },
+  {
+    "id": 919,
+    "enWord": "theory",
+    "ukrWord": "теорія",
+    "isChecked": false
+  },
+  {
+    "id": 920,
+    "enWord": "impact",
+    "ukrWord": "вплив",
+    "isChecked": false
+  },
+  {
+    "id": 921,
+    "enWord": "respond",
+    "ukrWord": "реагувати",
+    "isChecked": false
+  },
+  {
+    "id": 922,
+    "enWord": "statement",
+    "ukrWord": "твердження",
+    "isChecked": false
+  },
+  {
+    "id": 923,
+    "enWord": "maintain",
+    "ukrWord": "підтримувати",
+    "isChecked": false
+  },
+  {
+    "id": 924,
+    "enWord": "charge",
+    "ukrWord": "заряджати",
+    "isChecked": false
+  },
+  {
+    "id": 925,
+    "enWord": "popular",
+    "ukrWord": "популярний",
+    "isChecked": false
+  },
+  {
+    "id": 926,
+    "enWord": "traditional",
+    "ukrWord": "традиційний",
+    "isChecked": false
+  },
+  {
+    "id": 927,
+    "enWord": "onto",
+    "ukrWord": "на",
+    "isChecked": false
+  },
+  {
+    "id": 928,
+    "enWord": "reveal",
+    "ukrWord": "розкривати",
+    "isChecked": false
+  },
+  {
+    "id": 929,
+    "enWord": "direction",
+    "ukrWord": "напрямок",
+    "isChecked": false
+  },
+  {
+    "id": 930,
+    "enWord": "weapon",
+    "ukrWord": "спорядження",
+    "isChecked": false
+  },
+  {
+    "id": 931,
+    "enWord": "employee",
+    "ukrWord": "працівник",
+    "isChecked": false
+  },
+  {
+    "id": 932,
+    "enWord": "cultural",
+    "ukrWord": "культурний",
+    "isChecked": false
+  },
+  {
+    "id": 933,
+    "enWord": "contain",
+    "ukrWord": "складатися з",
+    "isChecked": false
+  },
+  {
+    "id": 934,
+    "enWord": "peace",
+    "ukrWord": "мир",
+    "isChecked": false
+  },
+  {
+    "id": 935,
+    "enWord": "head",
+    "ukrWord": "глава",
+    "isChecked": false
+  },
+  {
+    "id": 936,
+    "enWord": "control",
+    "ukrWord": "контроль",
+    "isChecked": false
+  },
+  {
+    "id": 937,
+    "enWord": "base",
+    "ukrWord": "база",
+    "isChecked": false
+  },
+  {
+    "id": 938,
+    "enWord": "pain",
+    "ukrWord": "біль",
+    "isChecked": false
+  },
+  {
+    "id": 939,
+    "enWord": "apply",
+    "ukrWord": "подавати заяву",
+    "isChecked": false
+  },
+  {
+    "id": 940,
+    "enWord": "play",
+    "ukrWord": "гра",
+    "isChecked": false
+  },
+  {
+    "id": 941,
+    "enWord": "measure",
+    "ukrWord": "міра",
+    "isChecked": false
+  },
+  {
+    "id": 942,
+    "enWord": "wide",
+    "ukrWord": "мережа",
+    "isChecked": false
+  },
+  {
+    "id": 943,
+    "enWord": "shake",
+    "ukrWord": "збивати",
+    "isChecked": false
+  },
+  {
+    "id": 944,
+    "enWord": "fly",
+    "ukrWord": "літати",
+    "isChecked": false
+  },
+  {
+    "id": 945,
+    "enWord": "interview",
+    "ukrWord": "інтерв'ю",
+    "isChecked": false
+  },
+  {
+    "id": 946,
+    "enWord": "manage",
+    "ukrWord": "справлятися",
+    "isChecked": false
+  },
+  {
+    "id": 947,
+    "enWord": "chair",
+    "ukrWord": "стілець",
+    "isChecked": false
+  },
+  {
+    "id": 948,
+    "enWord": "fish",
+    "ukrWord": "риба",
+    "isChecked": false
+  },
+  {
+    "id": 949,
+    "enWord": "particular",
+    "ukrWord": "певний",
+    "isChecked": false
+  },
+  {
+    "id": 950,
+    "enWord": "camera",
+    "ukrWord": "камера",
+    "isChecked": false
+  },
+  {
+    "id": 951,
+    "enWord": "structure",
+    "ukrWord": "структура",
+    "isChecked": false
+  },
+  {
+    "id": 952,
+    "enWord": "politics",
+    "ukrWord": "політика",
+    "isChecked": false
+  },
+  {
+    "id": 953,
+    "enWord": "perform",
+    "ukrWord": "виконувати",
+    "isChecked": false
+  },
+  {
+    "id": 954,
+    "enWord": "bit",
+    "ukrWord": "шматочок",
+    "isChecked": false
+  },
+  {
+    "id": 955,
+    "enWord": "weight",
+    "ukrWord": "вага",
+    "isChecked": false
+  },
+  {
+    "id": 956,
+    "enWord": "suddenly",
+    "ukrWord": "раптово",
+    "isChecked": false
+  },
+  {
+    "id": 957,
+    "enWord": "discover",
+    "ukrWord": "досліджувати",
+    "isChecked": false
+  },
+  {
+    "id": 958,
+    "enWord": "candidate",
+    "ukrWord": "кандидат",
+    "isChecked": false
+  },
+  {
+    "id": 959,
+    "enWord": "top",
+    "ukrWord": "топ",
+    "isChecked": false
+  },
+  {
+    "id": 960,
+    "enWord": "production",
+    "ukrWord": "виробництво",
+    "isChecked": false
+  },
+  {
+    "id": 961,
+    "enWord": "treat",
+    "ukrWord": "лікувати",
+    "isChecked": false
+  },
+  {
+    "id": 962,
+    "enWord": "trip",
+    "ukrWord": "подорож",
+    "isChecked": false
+  },
+  {
+    "id": 963,
+    "enWord": "evening",
+    "ukrWord": "вечір",
+    "isChecked": false
+  },
+  {
+    "id": 964,
+    "enWord": "affect",
+    "ukrWord": "впливати",
+    "isChecked": false
+  },
+  {
+    "id": 965,
+    "enWord": "inside",
+    "ukrWord": "всередині",
+    "isChecked": false
+  },
+  {
+    "id": 966,
+    "enWord": "conference",
+    "ukrWord": "конференція",
+    "isChecked": false
+  },
+  {
+    "id": 967,
+    "enWord": "unit",
+    "ukrWord": "частина",
+    "isChecked": false
+  },
+  {
+    "id": 968,
+    "enWord": "best",
+    "ukrWord": "кращий",
+    "isChecked": false
+  },
+  {
+    "id": 969,
+    "enWord": "style",
+    "ukrWord": "стиль",
+    "isChecked": false
+  },
+  {
+    "id": 970,
+    "enWord": "adult",
+    "ukrWord": "дорослий",
+    "isChecked": false
+  },
+  {
+    "id": 971,
+    "enWord": "worry",
+    "ukrWord": "хвилюватися",
+    "isChecked": false
+  },
+  {
+    "id": 972,
+    "enWord": "range",
+    "ukrWord": "спектр",
+    "isChecked": false
+  },
+  {
+    "id": 973,
+    "enWord": "mention",
+    "ukrWord": "згадка",
+    "isChecked": false
+  },
+  {
+    "id": 974,
+    "enWord": "rather",
+    "ukrWord": "швидше",
+    "isChecked": false
+  },
+  {
+    "id": 975,
+    "enWord": "far",
+    "ukrWord": "далекий",
+    "isChecked": false
+  },
+  {
+    "id": 976,
+    "enWord": "deed",
+    "ukrWord": "справа",
+    "isChecked": false
+  },
+  {
+    "id": 977,
+    "enWord": "past",
+    "ukrWord": "минуле",
+    "isChecked": false
+  },
+  {
+    "id": 978,
+    "enWord": "edge",
+    "ukrWord": "край",
+    "isChecked": false
+  },
+  {
+    "id": 979,
+    "enWord": "individual",
+    "ukrWord": "індивідуальний",
+    "isChecked": false
+  },
+  {
+    "id": 980,
+    "enWord": "specific",
+    "ukrWord": "конкретний",
+    "isChecked": false
+  },
+  {
+    "id": 981,
+    "enWord": "writer",
+    "ukrWord": "письменник",
+    "isChecked": false
+  },
+  {
+    "id": 982,
+    "enWord": "trouble",
+    "ukrWord": "проблема",
+    "isChecked": false
+  },
+  {
+    "id": 983,
+    "enWord": "necessary",
+    "ukrWord": "важливо",
+    "isChecked": false
+  },
+  {
+    "id": 984,
+    "enWord": "thoughout",
+    "ukrWord": "впродовж",
+    "isChecked": false
+  },
+  {
+    "id": 985,
+    "enWord": "challenge",
+    "ukrWord": "випробування",
+    "isChecked": false
+  },
+  {
+    "id": 986,
+    "enWord": "fear",
+    "ukrWord": "страх",
+    "isChecked": false
+  },
+  {
+    "id": 987,
+    "enWord": "shoulder",
+    "ukrWord": "плече",
+    "isChecked": false
+  },
+  {
+    "id": 988,
+    "enWord": "institution",
+    "ukrWord": "установа",
+    "isChecked": false
+  },
+  {
+    "id": 989,
+    "enWord": "middle",
+    "ukrWord": "середній",
+    "isChecked": false
+  },
+  {
+    "id": 990,
+    "enWord": "sea",
+    "ukrWord": "море",
+    "isChecked": false
+  },
+  {
+    "id": 991,
+    "enWord": "dream",
+    "ukrWord": "мрія/сон",
+    "isChecked": false
+  },
+  {
+    "id": 992,
+    "enWord": "magazine",
+    "ukrWord": "журнал",
+    "isChecked": false
+  },
+  {
+    "id": 993,
+    "enWord": "bar",
+    "ukrWord": "бар",
+    "isChecked": false
+  },
+  {
+    "id": 994,
+    "enWord": "beautiful",
+    "ukrWord": "гарно",
+    "isChecked": false
+  },
+  {
+    "id": 995,
+    "enWord": "property",
+    "ukrWord": "майно",
+    "isChecked": false
+  },
+  {
+    "id": 996,
+    "enWord": "instead",
+    "ukrWord": "замість",
+    "isChecked": false
+  },
+  {
+    "id": 997,
+    "enWord": "improve",
+    "ukrWord": "поліпшувати",
+    "isChecked": false
+  },
+  {
+    "id": 998,
+    "enWord": "stuff",
+    "ukrWord": "персонал",
+    "isChecked": false
+  },
+  {
+    "id": 999,
+    "enWord": "detail",
+    "ukrWord": "деталь",
+    "isChecked": false
+  }
+]
