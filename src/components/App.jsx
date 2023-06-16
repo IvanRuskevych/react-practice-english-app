@@ -5,73 +5,11 @@ import WordList from './WordList/WordList';
 import Filter from './Filter/Filter';
 import messageInfo from './Notify/Notify';
 
-import words from './data/dictionry.json';
+import words from '../data/dictionary.json';
 
 export class App extends Component {
   state = {
     words,
-    // words: [
-    //   {
-    //     id: 1,
-    //     enWord: 'the',
-    //     ukrWord: 'артикль',
-    //     isChecked: false,
-    //   },
-    //   {
-    //     id: 2,
-    //     enWord: 'be',
-    //     ukrWord: 'бути',
-    //     isChecked: false,
-    //   },
-    //   {
-    //     id: 3,
-    //     enWord: 'and',
-    //     ukrWord: 'і',
-    //     isChecked: false,
-    //   },
-    //   {
-    //     id: 4,
-    //     enWord: 'of',
-    //     ukrWord: 'з/від/об',
-    //     isChecked: false,
-    //   },
-    //   {
-    //     id: 5,
-    //     enWord: 'a',
-    //     ukrWord: 'артикль',
-    //     isChecked: false,
-    //   },
-    //   {
-    //     id: 6,
-    //     enWord: 'in',
-    //     ukrWord: 'в',
-    //     isChecked: false,
-    //   },
-    //   {
-    //     id: 7,
-    //     enWord: 'to',
-    //     ukrWord: 'частка перед дієсловом',
-    //     isChecked: false,
-    //   },
-    //   {
-    //     id: 8,
-    //     enWord: 'have',
-    //     ukrWord: 'мати',
-    //     isChecked: false,
-    //   },
-    //   {
-    //     id: 9,
-    //     enWord: 'to',
-    //     ukrWord: 'щоб',
-    //     isChecked: false,
-    //   },
-    //   {
-    //     id: 10,
-    //     enWord: 'it',
-    //     ukrWord: 'це',
-    //     isChecked: false,
-    //   },
-    // ],
     filter: '',
   };
 
@@ -111,11 +49,9 @@ export class App extends Component {
     const normolizedWorld = this.state.filter.toLowerCase().trim();
 
     return this.state.words.filter(word => {
-      // console.log(word);
-      // return true;
       return (
         word.ukrWord.toLowerCase().trim().includes(normolizedWorld) ||
-        word['enWord'].toLowerCase().trim().includes(normolizedWorld)
+        word.enWord.toLowerCase().trim().includes(normolizedWorld)
       );
     });
   };
