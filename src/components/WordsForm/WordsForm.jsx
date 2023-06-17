@@ -6,6 +6,8 @@ import Button from '@mui/material/Button';
 
 import css from './WordsForm.module.css';
 import messageInfo from 'components/Notify/Notify';
+import { useDispatch } from 'react-redux';
+import { addWord } from 'redux/operations';
 
 const initialState = {
   ukrWord: '',
@@ -25,8 +27,10 @@ const reducer = (state, action) => {
   }
 };
 
-export const WordsForm = ({ addWord }) => {
+export const WordsForm = () => {
   const [state, dispatch] = useReducer(reducer, initialState);
+
+  const dispatchToRedux = useDispatch();
 
   const handleChange = e => {
     const { name, value } = e.currentTarget;
@@ -47,14 +51,31 @@ export const WordsForm = ({ addWord }) => {
       ...state,
     };
 
-    addWord(word);
+    // addWord(word);
+    dispatchToRedux(addWord(word));
     dispatch({ type: 'reset' });
   };
 
   return (
     <form onSubmit={handleSubmitForm} className={css.WordsForm}>
-      <TextField id="ukrWord" name="ukrWord" label="Ukrainian" variant="outlined" autoComplete="off" value={state.ukrWord} onChange={handleChange} />
-      <TextField id="enWord" name="enWord" label="English" variant="outlined" autoComplete="off" value={state.enWord} onChange={handleChange} />
+      <TextField
+        id="ukrWord"
+        name="ukrWord"
+        label="Ukrainian"
+        variant="outlined"
+        autoComplete="off"
+        value={state.ukrWord}
+        onChange={handleChange}
+      />
+      <TextField
+        id="enWord"
+        name="enWord"
+        label="English"
+        variant="outlined"
+        autoComplete="off"
+        value={state.enWord}
+        onChange={handleChange}
+      />
       <Button type="submit" variant="outlined">
         add word
       </Button>
