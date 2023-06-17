@@ -1,8 +1,12 @@
 import List from '@mui/material/List';
 
 import { WordListItem } from './WordListItem';
+import { useSelector } from 'react-redux';
+import { selectFilteredWords } from 'redux/selectors';
 
-const WordList = ({ words, deleteWord, editeWord, checkWord }) => {
+const WordList = () => {
+  const words = useSelector(selectFilteredWords);
+  console.log(words);
   return (
     <List
       sx={{
@@ -13,7 +17,7 @@ const WordList = ({ words, deleteWord, editeWord, checkWord }) => {
       }}
     >
       {words.map(word => {
-        return <WordListItem key={word.id} word={word} deleteWord={deleteWord} editeWord={editeWord} checkWord={checkWord} />;
+        return <WordListItem key={word.id} word={word} />;
       })}
     </List>
   );
