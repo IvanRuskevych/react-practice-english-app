@@ -30,6 +30,7 @@ export const WordsForm = ({ addWord }) => {
 
   const handleChange = e => {
     const { name, value } = e.currentTarget;
+
     dispatch({ type: name, payload: value });
   };
 
@@ -52,24 +53,8 @@ export const WordsForm = ({ addWord }) => {
 
   return (
     <form onSubmit={handleSubmitForm} className={css.WordsForm}>
-      <TextField
-        id="ukrWord"
-        name="ukrWord"
-        label="Ukrainian"
-        variant="outlined"
-        autoComplete="off"
-        value={state.ukrWord}
-        onChange={handleChange}
-      />
-      <TextField
-        id="enWord"
-        name="enWord"
-        label="English"
-        variant="outlined"
-        autoComplete="off"
-        value={state.enWord}
-        onChange={handleChange}
-      />
+      <TextField id="ukrWord" name="ukrWord" label="Ukrainian" variant="outlined" autoComplete="off" value={state.ukrWord} onChange={handleChange} />
+      <TextField id="enWord" name="enWord" label="English" variant="outlined" autoComplete="off" value={state.enWord} onChange={handleChange} />
       <Button type="submit" variant="outlined">
         add word
       </Button>
