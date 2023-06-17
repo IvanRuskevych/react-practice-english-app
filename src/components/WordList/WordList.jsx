@@ -2,7 +2,7 @@ import List from '@mui/material/List';
 
 import { WordListItem } from './WordListItem';
 
-const WordList = ({ words, deleteWord, editeWord }) => {
+const WordList = ({ words, deleteWord, editeWord, checkWord }) => {
   return (
     <List
       sx={{
@@ -13,14 +13,7 @@ const WordList = ({ words, deleteWord, editeWord }) => {
       }}
     >
       {words.map(word => {
-        return (
-          <WordListItem
-            key={word.id}
-            word={word}
-            deleteWord={deleteWord}
-            editeWord={editeWord}
-          />
-        );
+        return <WordListItem key={word.id} word={word} deleteWord={deleteWord} editeWord={editeWord} checkWord={checkWord} />;
       })}
     </List>
   );

@@ -10,8 +10,7 @@ import { mdiFileEdit, mdiDelete } from '@mdi/js';
 import { useState } from 'react';
 import { TextField } from '@mui/material';
 
-export const WordListItem = ({ word, deleteWord, editeWord }) => {
-  const [checked, setChecked] = useState([0]);
+export const WordListItem = ({ word, deleteWord, editeWord, checkWord }) => {
   const [isEdit, setIsEdit] = useState(false);
   const [ukrWord, setUkrWord] = useState(word.ukrWord);
   const [enWord, setEnWord] = useState(word.enWord);
@@ -29,20 +28,20 @@ export const WordListItem = ({ word, deleteWord, editeWord }) => {
 
   const labelId = `checkbox-list-label-${word.id}`;
 
-  const handleToggle = value => () => {
-    const currentIndex = checked.indexOf(value);
-    const newChecked = [...checked];
-    // console.log(value);
-    // console.log(currentIndex);
-    // console.log(newChecked);
+  // const editeWord = updatedWord => {
+  //   // console.log(updatedWord);
+  //   setWords(prevState =>
+  //     prevState.map(word => {
+  //       if (word.id === updatedWord.id) {
+  //         return updatedWord;
+  //       }
+  //       return word;
+  //     })
+  //   );
+  // };
 
-    if (currentIndex === -1) {
-      newChecked.push(value);
-    } else {
-      newChecked.splice(currentIndex, 1);
-    }
-
-    setChecked(newChecked);
+  const handleToggle = () => {
+    checkWord(word.id);
   };
 
   const handleEdit = () => {
@@ -67,9 +66,9 @@ export const WordListItem = ({ word, deleteWord, editeWord }) => {
       }
       disablePadding
     >
-      <ListItemButton role={undefined} onClick={handleToggle(word)} dense>
+      <ListItemButton role={undefined} onClick={handleToggle} dense>
         <ListItemIcon>
-          <Checkbox edge="start" checked={checked.indexOf(word) !== -1} tabIndex={-1} disableRipple inputProps={{ 'aria-labelledby': labelId }} />
+          <Checkbox edge="start" checked={word.isChecked} tabIndex={-1} disableRipple inputProps={{ 'aria-labelledby': labelId }} />
         </ListItemIcon>
         {isEdit ? (
           <TextField name="ukrWord" onChange={handleChange} value={ukrWord} />
