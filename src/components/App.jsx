@@ -15,14 +15,25 @@ export const App = () => {
 
   // === after with useLocalStorage =======
   const [words, setWords] = useLocalStorage('words', []);
+
   // це приклад для filter як hook useLocalStorage перевикористовується
   // ПИСАТИ HOOKS ЯКІ НЕ ПЕРЕВИКОРИСТОВУЮТЬСЯ НЕДОЦІЛЬНО - ЦЕ ТРАТА ЧАСУ !!!
   // const [filter, setFilter] = useLocalStorage('filter', '');
 
   const addWord = word => setWords(prevState => [...prevState, word]);
-
   const deleteWord = wordId => {
     setWords(prevState => prevState.filter(word => word.id !== wordId));
+  };
+  const editeWord = updatedWord => {
+    console.log(updatedWord);
+    setWords(prevState =>
+      prevState.map(word => {
+        if (word.id === updatedWord.id) {
+          return updatedWord;
+        }
+        return word;
+      })
+    );
   };
 
   const filterWord = e => {
@@ -33,10 +44,7 @@ export const App = () => {
     const normolizedWorld = filter.toLowerCase().trim();
 
     return words.filter(word => {
-      return (
-        word.ukrWord.toLowerCase().trim().includes(normolizedWorld) ||
-        word.enWord.toLowerCase().trim().includes(normolizedWorld)
-      );
+      return word.ukrWord.toLowerCase().trim().includes(normolizedWorld) || word.enWord.toLowerCase().trim().includes(normolizedWorld);
     });
   };
 
@@ -51,7 +59,7 @@ export const App = () => {
           />
           <Filter handleChange={filterWord} value={filter} />
         </div>
-        <WordList words={handleFilteredWords()} deleteWord={deleteWord} />
+        <WordList words={handleFilteredWords()} deleteWord={deleteWord} editeWord={editeWord} />
       </div>
     </div>
   );
